@@ -189,7 +189,12 @@ if run_button or rerun_button:
             df_input = load_paths_csv(uploaded_file)
             st.info("📁 Usando archivo subido")
         else:
-            csv_path = cfg["io"]["input_csv"]
+            csv_path = os.path.join(
+                ROOT_PATH,
+                cfg["io"]["input_csv"]
+                .replace("\\", os.sep)
+                .replace("/", os.sep)
+            )
             df_input = load_paths_csv(csv_path)
             st.info("📁 Usando archivo del config")
 
