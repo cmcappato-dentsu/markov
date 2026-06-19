@@ -127,7 +127,7 @@ def remove_channels_from_paths(df, channels_to_remove, sep=">"):
             .replace('"', '')
             .replace("'", "")
             .strip()
-            .lower()
+            .capitalize()
         )
 
     if not channels_to_remove:
@@ -260,8 +260,8 @@ if run_button or rerun_button:
         if channels_to_remove:
             still_exists = results["df_summary"][
                 results["df_summary"]["channel"]
-                .str.lower()
-                .isin([c.lower() for c in channels_to_remove])
+                .str.capitalize()
+                .isin([c.capitalize() for c in channels_to_remove])
             ]
 
             if not still_exists.empty:
@@ -286,8 +286,6 @@ if run_button or rerun_button:
 
         st.session_state.model_executed = True
         st.rerun()
-        
-
             
 # ----------------------------
 # VISUALIZACIÓN
