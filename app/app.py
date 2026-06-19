@@ -70,6 +70,7 @@ uploaded_file = st.sidebar.file_uploader(
     type=["csv"]
 )
 
+"""
 # Debug toggle: muestra session_state en la barra lateral (útil para diagnosticar widgets)
 show_debug = st.sidebar.checkbox("Mostrar session_state (debug)", value=False)
 if show_debug:
@@ -77,7 +78,7 @@ if show_debug:
         st.sidebar.write(dict(st.session_state))
     except Exception:
         st.sidebar.write("No se pudo mostrar session_state")
-
+"""
 # ----------------------------
 # SLIDERS MODELO
 # ----------------------------
