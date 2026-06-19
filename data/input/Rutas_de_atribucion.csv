@@ -1,0 +1,962 @@
+# ----------------------------------------
+# Rutas de atribución de eventos clave
+# Cuenta: www.assist-card.com
+# Propiedad: Assist Card GA4 PROD
+# ----------------------------------------
+# 
+# País coincide exactamente con Argentina
+# Fecha de inicio: 20260501
+# Fecha de finalización: 20260531
+Ruta del grupo de canales principal,Eventos clave atribuidos a la ruta en función de los datos,Eventos clave,Ingresos derivados de las compras,Días hasta el evento clave,Puntos de contacto antes del evento clave
+"[""Direct""]",NaN,3547,1497121.92,0,1
+"[""Paid Search""]",NaN,1872,681079.07,2.327991452991453,1
+"[""Paid Search"",""Paid Search""]",NaN,531,204380.809951,7.6403013182674195,2
+"[""Email""]",NaN,413,163859.15,4.268765133171913,1
+"[""Paid Social""]",NaN,365,150098.27,5.057534246575343,1
+"[""Organic Search""]",NaN,341,128219.6,4.6950146627565985,1
+"[""Referral""]",NaN,309,102028.16,3.530744336569579,1
+"[""Cross-network""]",NaN,264,109402.99,5.492424242424242,1
+"[""Paid Search"",""Paid Search"",""Paid Search""]",NaN,211,82879.649847,14.118483412322275,3
+"[""Organic Social""]",NaN,166,62794.37,10.740963855421686,1
+"[""Unassigned""]",NaN,151,47076.65,1.8940397350993377,1
+"[""Email"",""Email""]",NaN,139,56923.689971,4.9352517985611515,2
+"[""Organic Search"",""Organic Search""]",NaN,115,43828.049994,4.6695652173913045,2
+"[""Referral"",""Referral""]",NaN,114,37876.409985,2.7982456140350878,2
+"[""Email"",""Email"",""Email""]",NaN,87,32953.759904,6.873563218390805,3
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,84,32494.70994,13.285714285714286,4
+"[""Paid Search"",""Organic Search""]",NaN,82,34178.609945,5.560975609756097,2
+"[""Referral"",""Referral"",""Referral""]",NaN,60,17049.539931,1.65,3
+"[""Organic Search"",""Paid Search""]",NaN,53,19533.979964,15.622641509433961,2
+"[""Unassigned"",""Unassigned""]",NaN,47,14381.759992,5.574468085106383,2
+"[""Organic Search"",""Organic Search"",""Organic Search""]",NaN,46,17377.899953,4.108695652173913,3
+"[""Paid Search"",""Referral""]",NaN,42,12775.379969,9.619047619047619,2
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,38,15338.629968,15.736842105263158,5
+"[""Email"",""Email"",""Email"",""Email""]",NaN,38,16394.099978,9.605263157894736,4
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,34,13571.309958,15.205882352941176,6
+"[""Cross-network"",""Paid Search""]",NaN,34,14071.409998,14.029411764705882,2
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Paid Search""]",NaN,34,18795.389944,22.558823529411764,4
+"[""Organic Search"",""Paid Search"",""Paid Search""]",NaN,33,10624.319965,9.93939393939394,3
+"[""Cross-network"",""Cross-network""]",NaN,33,13996.019996,20.09090909090909,2
+"[""Paid Search"",""Email""]",NaN,30,12681.129977,2.966666666666667,2
+"[""Email"",""Email"",""Email"",""Email"",""Email""]",NaN,29,15778.229979,13.344827586206897,5
+"[""Referral"",""Referral"",""Referral"",""Referral""]",NaN,27,6769.449979,5.185185185185185,4
+"[""Paid Other""]",NaN,27,11393.66,8.185185185185185,1
+"[""Unassigned"",""Unassigned"",""Unassigned""]",NaN,27,11446.859973,4.518518518518518,3
+"[""Email"",""Paid Search""]",NaN,27,12216.39998,13.666666666666666,2
+"[""Organic Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search""]",NaN,24,11507.219991,20.583333333333332,5
+"[""Paid Search"",""Organic Search"",""Paid Search"",""Paid Search""]",NaN,24,13125.449983,8.291666666666666,4
+"[""Paid Social"",""Paid Social""]",NaN,21,9605.469999,8.095238095238095,2
+"[""Paid Search"",""Referral"",""Referral""]",NaN,19,3938.999973,10.894736842105264,3
+"[""Organic Social"",""Organic Social""]",NaN,19,5166.94,0.9473684210526315,2
+"[""Referral"",""Paid Search""]",NaN,19,6190.689988,7.473684210526316,2
+"[""Paid Search"",""Paid Search"",""Organic Search""]",NaN,19,7330.519981,5.421052631578948,3
+"[""Organic Search"",""Organic Search"",""Paid Search""]",NaN,18,8439.699983,14.055555555555555,3
+"[""Email"",""Email"",""Email"",""Email"",""Email"",""Email""]",NaN,18,8518.149959,3.0555555555555554,6
+"[""Unassigned"",""Paid Search""]",NaN,17,5792.999987,6.411764705882353,2
+"[""Paid Search"",""Organic Search"",""Paid Search""]",NaN,17,6446.709988,6.764705882352941,3
+"[""Paid Search"",""Cross-network""]",NaN,17,6471.799996,12.470588235294118,2
+"[""Paid Search"",""Organic Search"",""Organic Search""]",NaN,17,7716.669981,4.823529411764706,3
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,16,4062.969995,3.125,4
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,16,4738.979992,22.5,4
+"[""Paid Search"",""Unassigned""]",NaN,16,5432.019992,6.9375,2
+"[""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,16,5715.91997,3,6
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,15,6429.439964,23.466666666666665,7
+"[""Paid Search"",""Email"",""Email""]",NaN,14,5810.379988,16,3
+"[""Referral"",""Referral"",""Paid Search"",""Referral"",""Cross-network"",""Cross-network""]",NaN,14,6744.069984,60.642857142857146,6
+"[""Referral"",""Referral"",""Paid Search"",""Referral"",""Referral"",""Referral""]",NaN,14,8813.119981,6.857142857142857,6
+"[""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,13,4843.879992,3.3076923076923075,5
+"[""Display""]",NaN,13,5001.14,4.461538461538462,1
+"[""Referral"",""Paid Search"",""Paid Search""]",NaN,13,5372.329989,10.846153846153847,3
+"[""Email"",""Email"",""Email"",""Email"",""Email"",""Email"",""Email"",""Email""]",NaN,13,6661.809977,22.615384615384617,8
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,12,3242.049986,18.166666666666668,4
+"[""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social""]",NaN,12,4020.619999,4.75,4
+"[""Cross-network"",""Paid Search"",""Paid Search""]",NaN,12,5734.109997,9.333333333333334,3
+"[""Organic Social"",""Organic Social"",""Organic Social""]",NaN,11,2173.779987,0.8181818181818182,3
+"[""Organic Search"",""Referral""]",NaN,11,3097.849993,9.363636363636363,2
+"[""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social""]",NaN,11,3630.339988,10.818181818181818,6
+"[""Organic Search"",""Unassigned""]",NaN,11,4212.929992,19.727272727272727,2
+"[""Referral"",""Referral"",""Organic Search""]",NaN,11,4360.40999,8.909090909090908,3
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,11,4530.629996,14.363636363636363,5
+"[""Paid Social"",""Paid Social"",""Paid Social""]",NaN,11,4858.869995,3.727272727272727,3
+"[""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social""]",NaN,10,2743.139997,8.3,5
+"[""Paid Search"",""Paid Search"",""Referral""]",NaN,10,3487.869991,12.6,3
+"[""Paid Search"",""Referral"",""Paid Search""]",NaN,10,3534.449993,4.3,3
+"[""Email"",""Paid Search"",""Paid Search""]",NaN,10,4033.189988,35.1,3
+"[""Paid Search"",""Paid Search"",""Unassigned""]",NaN,9,3139.27999,5.111111111111111,3
+"[""Email"",""Email"",""Email"",""Email"",""Email"",""Email"",""Email""]",NaN,9,3338.819971,10,7
+"[""Paid Search"",""Paid Search"",""Referral"",""Referral""]",NaN,8,1947.809989,4,4
+"[""Email"",""Referral""]",NaN,8,2233.979994,3,2
+"[""Cross-network"",""Email""]",NaN,8,2775.139994,24,2
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,8,3157.429985,1.625,5
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search""]",NaN,8,3451.119987,10.125,4
+"[""Cross-network"",""Cross-network"",""Cross-network""]",NaN,8,3858.409994,22.5,3
+"[""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,7,1862.879971,2.7142857142857144,7
+"[""Paid Search"",""Paid Social""]",NaN,7,2223.239997,11.428571428571429,2
+"[""Paid Search"",""Paid Search"",""Email""]",NaN,7,2887.209991,17.285714285714285,3
+"[""Email"",""Email"",""Paid Search""]",NaN,7,2916.299992,9.857142857142858,3
+"[""Paid Search"",""Cross-network"",""Paid Search""]",NaN,7,3028.319996,25.857142857142858,3
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Paid Search""]",NaN,7,4604.529994,11.142857142857142,4
+"[""Referral"",""Paid Search"",""Referral"",""Referral""]",NaN,6,1251.609995,9.5,4
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,6,1629.889993,0.8333333333333334,4
+"[""Unassigned"",""Referral""]",NaN,6,1648.889996,0.3333333333333333,2
+"[""Organic Search"",""Referral"",""Referral""]",NaN,6,1850.859992,23.5,3
+"[""Paid Social"",""Paid Search""]",NaN,6,1878.049998,20.666666666666668,2
+"[""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social""]",NaN,6,1900.08,27.333333333333332,5
+"[""Paid Search"",""Cross-network"",""Cross-network""]",NaN,6,2200.479997,1.8333333333333333,3
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search""]",NaN,6,2321.549993,24,4
+"[""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,6,2590.239995,28.166666666666668,4
+"[""Paid Search"",""Email"",""Paid Search""]",NaN,6,3276.799997,11.5,3
+"[""Email"",""Paid Search"",""Email""]",NaN,6,3327.439998,14,3
+"[""Paid Search"",""Organic Social"",""Organic Social""]",NaN,5,948.959993,0.4,3
+"[""Paid Search"",""Referral"",""Referral"",""Referral""]",NaN,5,1289.929992,2.6,4
+"[""Cross-network"",""Cross-network"",""Paid Search""]",NaN,5,1384.379996,23.2,3
+"[""Cross-network"",""Organic Search""]",NaN,5,1482.759998,5.4,2
+"[""Paid Social"",""Paid Social"",""Paid Search""]",NaN,5,1626.109997,14.4,3
+"[""Paid Search"",""Display"",""Paid Search""]",NaN,5,1687.039998,19.8,3
+"[""Paid Search"",""Email"",""Email"",""Email""]",NaN,5,1943.849995,29,4
+"[""Unassigned"",""Email""]",NaN,5,2129.309996,2.6,2
+"[""Paid Search"",""Cross-network"",""Paid Search"",""Paid Search""]",NaN,5,2141.8,31.2,4
+"[""Unassigned"",""Paid Search"",""Paid Search""]",NaN,5,2145.709998,17.8,3
+"[""Referral"",""Referral"",""Paid Search""]",NaN,5,2189.069995,2.2,3
+"[""Email"",""Email"",""Email"",""Paid Search""]",NaN,5,2389.399997,51.4,4
+"[""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network""]",NaN,5,2416.769997,32.6,4
+"[""Paid Search"",""Display""]",NaN,5,2539.269998,9.2,2
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,5,2613.369985,12.8,6
+"[""Referral"",""Email""]",NaN,5,3370.639995,2.8,2
+"[""Referral"",""Referral"",""Referral"",""Organic Search""]",NaN,4,623.899994,0.75,4
+"[""Paid Search"",""Referral"",""Organic Search""]",NaN,4,956.859995,3.5,3
+"[""Organic Search"",""Cross-network""]",NaN,4,983.959996,0,2
+"[""Referral"",""Referral"",""Paid Search"",""Referral""]",NaN,4,1015.929993,2.25,4
+"[""Email"",""Unassigned""]",NaN,4,1214.479996,0,2
+"[""Paid Search"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,4,1241.139992,7,5
+"[""Email"",""Cross-network"",""Paid Search""]",NaN,4,1245.089999,85.5,3
+"[""Referral"",""Cross-network""]",NaN,4,1267.539998,1.5,2
+"[""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search""]",NaN,4,1272.409994,34.5,4
+"[""Cross-network"",""Paid Social""]",NaN,4,1632.909999,17.5,2
+"[""Cross-network"",""Referral""]",NaN,4,1639.289999,3.75,2
+"[""Paid Search"",""Email"",""Email"",""Email"",""Email""]",NaN,4,1666.95999,2.25,5
+"[""Display"",""Display""]",NaN,4,1705.58,21.75,2
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,4,1738.089997,19.25,5
+"[""Paid Search"",""Paid Search"",""Cross-network""]",NaN,4,1789.859999,4.5,3
+"[""Paid Search"",""Paid Search"",""Display""]",NaN,4,1861.16,5.5,3
+"[""Organic Search"",""Paid Search"",""Organic Search""]",NaN,4,1887.899998,20.75,3
+"[""Referral"",""Referral"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,4,1984.179995,6.75,5
+"[""Paid Search"",""Paid Search"",""Email"",""Email"",""Email""]",NaN,4,2071.89999,7.5,5
+"[""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,4,2135.819996,36,5
+"[""Email"",""Email"",""Email"",""Email"",""Email"",""Paid Search""]",NaN,4,2223.009992,1,6
+"[""Referral"",""Referral"",""Paid Search"",""Paid Search"",""Paid Search"",""Referral"",""Referral""]",NaN,4,2297.699992,13,7
+"[""Email"",""Cross-network""]",NaN,4,2890.479996,66,2
+"[""Referral"",""Unassigned""]",NaN,3,389.279998,6.333333333333333,2
+"[""Organic Search"",""Referral"",""Referral"",""Referral""]",NaN,3,451.129994,4.666666666666667,4
+"[""Paid Search"",""Paid Search"",""Referral"",""Referral"",""Referral""]",NaN,3,472.089996,13.666666666666666,5
+"[""Referral"",""Paid Search"",""Referral""]",NaN,3,572.739998,1.6666666666666667,3
+"[""Referral"",""Organic Search""]",NaN,3,595.659997,26.666666666666668,2
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search""]",NaN,3,664.529994,14.333333333333334,5
+"[""Paid Search"",""Paid Social"",""Paid Search""]",NaN,3,682.92,12,3
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,3,812.619992,16,5
+"[""Email"",""Email"",""Email"",""Referral""]",NaN,3,822.899997,12.333333333333334,4
+"[""Paid Search"",""Cross-network"",""Organic Search""]",NaN,3,837.519998,16.666666666666668,3
+"[""Paid Search"",""Organic Social""]",NaN,3,862.849997,0.3333333333333333,2
+"[""Email"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,3,876.359999,27,5
+"[""Paid Search"",""Unassigned"",""Paid Search""]",NaN,3,904.559997,6,3
+"[""Paid Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,3,937.689996,22.333333333333332,5
+"[""Cross-network"",""Organic Search"",""Organic Search""]",NaN,3,965.659998,19,3
+"[""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network""]",NaN,3,995.279991,6.333333333333333,6
+"[""Referral"",""Referral"",""Referral"",""Paid Search""]",NaN,3,1029.479995,25.333333333333332,4
+"[""Email"",""Referral"",""Referral""]",NaN,3,1054.249998,0,3
+"[""Referral"",""Display""]",NaN,3,1113.069998,4.666666666666667,2
+"[""Unassigned"",""Organic Search""]",NaN,3,1113.799997,0.3333333333333333,2
+"[""Referral"",""Organic Search"",""Organic Search""]",NaN,3,1134.919997,29,3
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Paid Search""]",NaN,3,1144.999994,3.3333333333333335,5
+"[""Cross-network"",""Display""]",NaN,3,1203.549999,4.666666666666667,2
+"[""Cross-network"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,3,1229.009995,12.333333333333334,5
+"[""Unassigned"",""Paid Search"",""Unassigned""]",NaN,3,1230.399999,2.6666666666666665,3
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Paid Search""]",NaN,3,1263.589994,24.666666666666668,5
+"[""Paid Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,3,1276.239993,5.333333333333333,6
+"[""Paid Search"",""Organic Search"",""Paid Search"",""Organic Search""]",NaN,3,1289.499997,3.6666666666666665,4
+"[""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,3,1325.2,0,8
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,3,1339.649996,0,5
+"[""Organic Search"",""Email""]",NaN,3,1421.009997,27.666666666666668,2
+"[""Cross-network"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,3,1432.349995,23.333333333333332,6
+"[""Paid Search"",""Referral"",""Referral"",""Paid Search""]",NaN,3,1432.759996,2.3333333333333335,4
+"[""Display"",""Paid Search""]",NaN,3,1463.71,3,2
+"[""Referral"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,3,1645.199998,5.666666666666667,4
+"[""Email"",""Email"",""Paid Search"",""Paid Search""]",NaN,3,1697.199997,30.333333333333332,4
+"[""Paid Search"",""Email"",""Email"",""Email"",""Email"",""Email"",""Email""]",NaN,3,1841.299998,10.333333333333334,7
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,3,1848.359994,30.333333333333332,6
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,3,1874.399996,1,8
+"[""Paid Search"",""Email"",""Email"",""Email"",""Email"",""Email""]",NaN,3,2064.079991,17,6
+"[""Referral"",""Referral"",""Paid Search"",""Paid Search"",""Paid Search"",""Referral"",""Referral"",""Paid Search""]",NaN,3,2100.299996,14.333333333333334,8
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Cross-network""]",NaN,2,142.479998,6,4
+"[""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search""]",NaN,2,174.599998,13.5,4
+"[""Organic Search"",""Paid Search"",""Organic Search"",""Paid Search""]",NaN,2,228.559998,17,4
+"[""Paid Search"",""Paid Social"",""Paid Search"",""Paid Search""]",NaN,2,245.84,2.5,4
+"[""Organic Search"",""Cross-network"",""Paid Search""]",NaN,2,247.199997,0,3
+"[""Paid Search"",""Cross-network"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,2,247.239999,1.5,5
+"[""Email"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,2,251.449994,3.5,6
+"[""Unassigned"",""Referral"",""Referral"",""Referral""]",NaN,2,262.079997,33.5,4
+"[""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social""]",NaN,2,271.969998,10,7
+"[""Unassigned"",""Paid Search"",""Referral""]",NaN,2,288.699996,1,3
+"[""Organic Search"",""Unassigned"",""Unassigned""]",NaN,2,294.509999,38.5,3
+"[""Paid Search"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,2,318.659991,30,7
+"[""Paid Search"",""Paid Search"",""Display"",""Paid Search"",""Paid Search""]",NaN,2,331.969999,33,5
+"[""Referral"",""Unassigned"",""Referral""]",NaN,2,343.439998,0,3
+"[""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Referral""]",NaN,2,353.859998,2,5
+"[""Organic Search"",""Referral"",""Paid Search""]",NaN,2,356.999998,10.5,3
+"[""Unassigned"",""Referral"",""Referral""]",NaN,2,384.909996,1,3
+"[""Organic Search"",""Organic Search"",""Cross-network""]",NaN,2,386.089997,15.5,3
+"[""Organic Social"",""Organic Social"",""Paid Search""]",NaN,2,397.069997,0,3
+"[""Email"",""Display"",""Paid Search""]",NaN,2,411.64,30,3
+"[""Paid Search"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,2,418,1.5,6
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,2,429.08999,1.5,7
+"[""Paid Search"",""Paid Search"",""Email"",""Email""]",NaN,2,430.609996,25.5,4
+"[""Unassigned"",""Unassigned"",""Cross-network""]",NaN,2,440.699999,20,3
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Cross-network"",""Paid Search""]",NaN,2,458.669997,1,5
+"[""Paid Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,2,499.319998,45.5,5
+"[""Referral"",""Referral"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,2,509.119996,29.5,7
+"[""Email"",""Referral"",""Referral"",""Email"",""Paid Search""]",NaN,2,513.629999,0,5
+"[""Cross-network"",""Organic Search"",""Paid Search""]",NaN,2,537.039998,7,3
+"[""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Paid Search"",""Paid Search"",""Unassigned""]",NaN,2,540.199998,55,7
+"[""Referral"",""Paid Search"",""Referral"",""Paid Search""]",NaN,2,549.979995,28,4
+"[""Paid Search"",""Unassigned"",""Paid Search"",""Unassigned""]",NaN,2,555.489999,13,4
+"[""Email"",""Organic Search"",""Organic Search""]",NaN,2,560.399997,3,3
+"[""Paid Social"",""Paid Search"",""Paid Search""]",NaN,2,585,47,3
+"[""Paid Search"",""Paid Search"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,2,599.879993,42.5,7
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Cross-network"",""Cross-network"",""Organic Search""]",NaN,2,604.959996,0,6
+"[""Paid Search"",""Cross-network"",""Organic Search"",""Organic Search"",""Paid Search""]",NaN,2,612.849996,3,5
+"[""Cross-network"",""Referral"",""Referral""]",NaN,2,622.709996,8.5,3
+"[""Paid Search"",""Email"",""Email"",""Paid Search""]",NaN,2,627.679999,2,4
+"[""Paid Search"",""Cross-network"",""Cross-network"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,2,633,12,6
+"[""Paid Search"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social""]",NaN,2,633.649995,4.5,7
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Paid Search"",""Paid Search""]",NaN,2,636.199999,0,5
+"[""Unassigned"",""Unassigned"",""Paid Search""]",NaN,2,637.559998,0.5,3
+"[""Email"",""Unassigned"",""Paid Search""]",NaN,2,639.779998,0,3
+"[""Organic Search"",""Organic Search"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,2,639.799994,1,6
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,2,640.599997,34,7
+"[""Referral"",""Paid Search"",""Organic Search"",""Paid Search""]",NaN,2,640.759997,17.5,4
+"[""Unassigned"",""Paid Search"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,2,654,1.5,6
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,2,660,13,7
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,2,668.059994,3.5,7
+"[""Referral"",""Paid Search"",""Organic Search""]",NaN,2,668.689996,32.5,3
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,2,668.999996,28,6
+"[""Cross-network"",""Paid Social"",""Paid Social""]",NaN,2,681,19,3
+"[""Referral"",""Referral"",""Unassigned""]",NaN,2,683.199999,44,3
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,2,700.549995,3,8
+"[""Email"",""Email"",""Paid Social"",""Email"",""Email""]",NaN,2,747.769997,5,5
+"[""Cross-network"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,2,760.019997,21.5,5
+"[""Email"",""Organic Search""]",NaN,2,790.199999,1,2
+"[""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social""]",NaN,2,795.5,0,4
+"[""Paid Search"",""Organic Search"",""Paid Social"",""Paid Search""]",NaN,2,812.459997,5.5,4
+"[""Email"",""Paid Search"",""Email"",""Email"",""Email""]",NaN,2,814.479997,37,5
+"[""Cross-network"",""Email"",""Email"",""Email"",""Email"",""Email""]",NaN,2,841.399999,25.5,6
+"[""Paid Search"",""Unassigned"",""Unassigned"",""Unassigned"",""Paid Search""]",NaN,2,848.829999,25.5,5
+"[""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social""]",NaN,2,850.56,12,8
+"[""Email"",""Email"",""Email"",""Paid Search"",""Paid Search""]",NaN,2,856.619996,9.5,5
+"[""Display"",""Cross-network"",""Cross-network""]",NaN,2,858.799998,54,3
+"[""Paid Social"",""Cross-network"",""Email"",""Email""]",NaN,2,859.84,58,4
+"[""Paid Social"",""Organic Social""]",NaN,2,874.38,9.5,2
+"[""Paid Other"",""Organic Search""]",NaN,2,876.199998,1,2
+"[""Email"",""Paid Search"",""Email"",""Email""]",NaN,2,884.959997,0.5,4
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Email"",""Email""]",NaN,2,901.199997,26.5,5
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Paid Search""]",NaN,2,932.199996,1.5,6
+"[""Paid Search"",""Paid Social"",""Paid Social"",""Paid Search""]",NaN,2,935.2,18,4
+"[""Paid Search"",""Cross-network"",""Paid Search"",""Paid Search"",""Referral""]",NaN,2,944.689996,84,5
+"[""Organic Search"",""Organic Search"",""Referral"",""Paid Search""]",NaN,2,946.399996,5,4
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Unassigned""]",NaN,2,946.739998,36.5,4
+"[""Paid Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,2,982.239998,48,6
+"[""Cross-network"",""Email"",""Email"",""Email""]",NaN,2,989.799999,48.5,4
+"[""Paid Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,2,1000.959999,12.5,7
+"[""Referral"",""Referral"",""Referral"",""Referral"",""Paid Search""]",NaN,2,1002,41,5
+"[""Cross-network"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,2,1010.409996,42.5,4
+"[""Cross-network"",""Organic Search"",""Organic Search"",""Paid Search""]",NaN,2,1021.7,16,4
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network""]",NaN,2,1028.22,1,5
+"[""Paid Search"",""Referral"",""Paid Social"",""Paid Social"",""Paid Social""]",NaN,2,1057.829996,10,5
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search""]",NaN,2,1059.699995,0.5,5
+"[""Paid Search"",""Unassigned"",""Unassigned""]",NaN,2,1082.919997,1.5,3
+"[""Email"",""Email"",""Email"",""Email"",""Email"",""Email"",""Paid Search""]",NaN,2,1097.799991,9.5,7
+"[""Paid Search"",""Organic Search"",""Referral""]",NaN,2,1105.999999,2,3
+"[""Paid Search"",""Email"",""Paid Search"",""Paid Search""]",NaN,2,1125.619999,39,4
+"[""Email"",""Organic Search"",""Paid Search""]",NaN,2,1130.559998,40,3
+"[""Unassigned"",""Email"",""Email"",""Email""]",NaN,2,1155.199997,1,4
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,2,1164.079997,0,6
+"[""Referral"",""Paid Search"",""Referral"",""Paid Search"",""Referral"",""Referral"",""Referral""]",NaN,2,1167.409997,7,7
+"[""Referral"",""Referral"",""Referral"",""Referral"",""Paid Search"",""Paid Search""]",NaN,2,1194.299994,47.5,6
+"[""Email"",""Email"",""Email"",""Paid Search"",""Paid Search"",""Email""]",NaN,2,1204.479998,1.5,6
+"[""Paid Search"",""Paid Social"",""Paid Social""]",NaN,2,1219.249999,7.5,3
+"[""Email"",""Email"",""Email"",""Unassigned""]",NaN,2,1221.819998,21.5,4
+"[""Paid Search"",""Organic Search"",""Unassigned""]",NaN,2,1227.399998,35.5,3
+"[""Organic Search"",""Organic Search"",""Email"",""Email""]",NaN,2,1239.859996,15,4
+"[""Referral"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,2,1279.039995,8.5,4
+"[""Cross-network"",""Paid Search"",""Cross-network"",""Cross-network""]",NaN,2,1389.67,32.5,4
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Referral""]",NaN,2,1390,35.5,4
+"[""Cross-network"",""Paid Search"",""Paid Search"",""Referral"",""Paid Search""]",NaN,2,1418.799998,32.5,5
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Paid Search"",""Unassigned""]",NaN,2,1511.399999,19.5,5
+"[""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social""]",NaN,2,1527.599997,1.5,7
+"[""Email"",""Email"",""Email"",""Email"",""Paid Search""]",NaN,2,1528.999999,1.5,5
+"[""Paid Search"",""Paid Search"",""Email"",""Email"",""Email"",""Email"",""Email""]",NaN,2,1612.399996,57,7
+"[""Paid Search"",""Paid Other"",""Paid Other"",""Paid Other""]",NaN,1,0,0,4
+"[""Cross-network"",""Organic Search"",""Paid Search"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,1,0,1,6
+"[""Organic Search"",""Paid Search"",""Organic Search"",""Referral"",""Email"",""Referral"",""Organic Search""]",NaN,1,0,5,7
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network"",""Paid Search""]",NaN,1,0,6,5
+"[""Referral"",""Referral"",""Unassigned"",""Unassigned"",""Unassigned"",""Organic Search""]",NaN,1,0,9,6
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,1,0,17,8
+"[""Paid Search"",""Cross-network"",""Organic Search"",""Organic Search"",""Organic Search"",""Unassigned""]",NaN,1,0,22,6
+"[""Cross-network"",""Referral"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,1,0,42,8
+"[""Referral"",""Referral"",""Paid Search"",""Paid Search""]",NaN,1,0,75,4
+"[""Referral"",""Organic Search"",""Organic Search"",""Paid Search""]",NaN,1,7.259998,29,4
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Cross-network""]",NaN,1,17.479999,5,4
+"[""Unassigned"",""Organic Search"",""Organic Search""]",NaN,1,20.979999,0,3
+"[""Paid Social"",""Referral"",""Organic Social"",""Organic Social""]",NaN,1,20.979999,0,4
+"[""Referral"",""Referral"",""Paid Social""]",NaN,1,20.98,0,3
+"[""Referral"",""Organic Search"",""Organic Search"",""Referral""]",NaN,1,29.369999,2,4
+"[""Organic Search"",""Display"",""Referral""]",NaN,1,30,4,3
+"[""Cross-network"",""Cross-network"",""Email"",""Email"",""Email""]",NaN,1,31.459998,25,5
+"[""Referral"",""Referral"",""Cross-network"",""Referral""]",NaN,1,32,9,4
+"[""Email"",""Email"",""Email"",""Paid Search"",""Referral"",""Referral"",""Referral""]",NaN,1,32.099999,0,7
+"[""Unassigned"",""Organic Social"",""Organic Social"",""Organic Social""]",NaN,1,46.799998,35,4
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Paid Social"",""Paid Other""]",NaN,1,51,55,6
+"[""Organic Search"",""Referral"",""Paid Search"",""Referral"",""Organic Search"",""Referral"",""Referral""]",NaN,1,54,49,7
+"[""Cross-network"",""Unassigned""]",NaN,1,57.12,0,2
+"[""Referral"",""Referral"",""Referral"",""Referral"",""Organic Search""]",NaN,1,57.779998,84,5
+"[""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Display"",""Email"",""Paid Search"",""Paid Search""]",NaN,1,61.599999,35,8
+"[""Organic Social"",""Referral"",""Referral""]",NaN,1,61.929999,0,3
+"[""Organic Search"",""Paid Social"",""Referral"",""Referral"",""Paid Social"",""Paid Social"",""Referral""]",NaN,1,63.179999,5,7
+"[""Paid Search"",""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network""]",NaN,1,65,2,5
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Referral"",""Referral""]",NaN,1,69.999999,0,6
+"[""Cross-network"",""Paid Social"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,74.879996,3,6
+"[""Paid Other"",""Paid Other"",""Paid Search"",""Paid Search""]",NaN,1,76.94,1,4
+"[""Organic Search"",""Organic Search"",""Referral""]",NaN,1,77.349998,0,3
+"[""Display"",""Display"",""Display"",""Display"",""Display"",""Referral"",""Referral"",""Referral""]",NaN,1,78.829999,7,8
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Organic Social""]",NaN,1,84.239998,2,4
+"[""Paid Search"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,84.239998,6,8
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Referral""]",NaN,1,84.239999,7,6
+"[""Unassigned"",""Cross-network"",""Cross-network""]",NaN,1,84.449999,1,3
+"[""Unassigned"",""Paid Other""]",NaN,1,88.249999,5,2
+"[""Organic Social"",""Referral"",""Referral"",""Referral""]",NaN,1,90.089999,0,4
+"[""Cross-network"",""Paid Social"",""Cross-network"",""Paid Social""]",NaN,1,90.899998,27,4
+"[""Organic Social"",""Paid Search"",""Organic Social"",""Organic Social""]",NaN,1,93.599999,1,4
+"[""Organic Search"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,93.599999,75,6
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Referral""]",NaN,1,94,4,7
+"[""Organic Search"",""Referral"",""Referral"",""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search""]",NaN,1,94.949996,37,7
+"[""Cross-network"",""Cross-network"",""Referral"",""Referral""]",NaN,1,97.019999,44,4
+"[""Organic Search"",""Organic Search"",""Paid Social"",""Paid Social"",""Paid Social""]",NaN,1,99.6,0,5
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network"",""Cross-network"",""Paid Search"",""Email"",""Paid Search""]",NaN,1,101,25,8
+"[""Organic Search"",""Referral"",""Referral"",""Referral"",""Organic Search"",""Referral"",""Referral""]",NaN,1,101.349998,22,7
+"[""Referral"",""Cross-network"",""Paid Search""]",NaN,1,104.179999,5,3
+"[""Paid Search"",""Paid Search"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Search""]",NaN,1,104.829999,22,7
+"[""Paid Social"",""Paid Search"",""Cross-network""]",NaN,1,107.8,4,3
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Email"",""Email"",""Email""]",NaN,1,109.239996,26,6
+"[""Referral"",""Referral"",""Referral"",""Referral"",""Organic Search"",""Referral""]",NaN,1,110.759997,0,6
+"[""Referral"",""Referral"",""Referral"",""Referral"",""Organic Search"",""Referral"",""Referral""]",NaN,1,110.759997,0,7
+"[""Paid Other"",""Referral"",""Referral"",""Referral""]",NaN,1,110.759998,8,4
+"[""Organic Search"",""Cross-network"",""Organic Search""]",NaN,1,110.879999,0,3
+"[""Unassigned"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social""]",NaN,1,112.159997,13,5
+"[""Paid Search"",""Paid Search"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,112.319997,6,8
+"[""Referral"",""Paid Other"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,113.159999,1,6
+"[""Referral"",""Referral"",""Referral"",""Email""]",NaN,1,114.619998,2,4
+"[""Organic Search"",""Paid Search"",""Email"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,116.499999,32,6
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search""]",NaN,1,118.649997,52,5
+"[""Organic Social"",""Paid Search"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social""]",NaN,1,119.279997,15,6
+"[""Paid Social"",""Referral"",""Referral"",""Referral"",""Organic Social"",""Organic Social"",""Referral""]",NaN,1,119.339999,32,7
+"[""Organic Search"",""Paid Search"",""Paid Search"",""Paid Social"",""Paid Social"",""Paid Search""]",NaN,1,120.01,28,6
+"[""Referral"",""Paid Search"",""Referral"",""Referral"",""Referral""]",NaN,1,123.199998,88,5
+"[""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,124.799998,1,6
+"[""Paid Social"",""Paid Search"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social""]",NaN,1,126,2,7
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search""]",NaN,1,127.359998,4,5
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,128.519997,35,6
+"[""Email"",""Email"",""Email"",""Email"",""Email"",""Organic Search""]",NaN,1,130,40,6
+"[""Organic Search"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,1,131.239998,1,4
+"[""Referral"",""Unassigned"",""Unassigned"",""Unassigned"",""Cross-network""]",NaN,1,131.669996,16,5
+"[""Referral"",""Referral"",""Paid Search"",""Referral"",""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,132.599997,6,8
+"[""Referral"",""Unassigned"",""Paid Search"",""Referral"",""Referral""]",NaN,1,132.599999,0,5
+"[""Organic Search"",""Organic Search"",""Display"",""Cross-network"",""Cross-network""]",NaN,1,137,37,5
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,1,138.119997,1,6
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Unassigned"",""Paid Search""]",NaN,1,138.349998,0,6
+"[""Paid Search"",""Cross-network"",""Organic Search"",""Organic Search""]",NaN,1,138.599998,0,4
+"[""Referral"",""Display"",""Unassigned"",""Unassigned""]",NaN,1,138.599999,1,4
+"[""Display"",""Display"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,1,139.299998,5,5
+"[""Organic Social"",""Paid Search"",""Organic Social"",""Organic Social"",""Organic Social""]",NaN,1,140.399998,12,5
+"[""Paid Search"",""Cross-network"",""Cross-network"",""Paid Search"",""Email""]",NaN,1,142.799998,0,5
+"[""Display"",""Display"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,1,143.279996,0,5
+"[""Display"",""Referral""]",NaN,1,143.28,46,2
+"[""Cross-network"",""Display"",""Cross-network"",""Cross-network""]",NaN,1,145.07,2,4
+"[""Unassigned"",""Paid Search"",""Cross-network""]",NaN,1,145.149999,1,3
+"[""Paid Search"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,145.8,0,6
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,149.199997,17,7
+"[""Organic Social"",""Organic Social"",""Organic Social"",""Organic Search"",""Organic Social""]",NaN,1,149.759999,1,5
+"[""Cross-network"",""Email"",""Email"",""Email"",""Email"",""Email"",""Paid Social""]",NaN,1,151.199997,3,7
+"[""Referral"",""Referral"",""Referral"",""Unassigned""]",NaN,1,151.409997,0,4
+"[""Paid Search"",""Organic Search"",""Paid Social"",""Organic Search"",""Organic Search""]",NaN,1,152.319998,6,5
+"[""Cross-network"",""Email"",""Paid Search"",""Email"",""Email""]",NaN,1,152.459999,6,5
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search""]",NaN,1,154,23,8
+"[""Paid Search"",""Organic Search"",""Organic Social"",""Referral"",""Referral"",""Referral""]",NaN,1,154.959997,0,6
+"[""Organic Social"",""Organic Social"",""Paid Search"",""Unassigned""]",NaN,1,154.959998,0,4
+"[""Email"",""Organic Social"",""Organic Social"",""Referral"",""Unassigned"",""Unassigned"",""Referral""]",NaN,1,154.959998,4,7
+"[""Paid Search"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Paid Search""]",NaN,1,154.959999,62,8
+"[""Organic Social"",""Organic Social"",""Paid Social"",""Organic Social""]",NaN,1,154.96,7,4
+"[""Email"",""Email"",""Cross-network"",""Cross-network""]",NaN,1,156.759998,42,4
+"[""Paid Search"",""Paid Search"",""Cross-network"",""Email"",""Email""]",NaN,1,157.019997,0,5
+"[""Referral"",""Referral"",""Referral"",""Paid Search"",""Referral"",""Referral""]",NaN,1,157.079997,56,6
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network""]",NaN,1,157.609998,6,4
+"[""Unassigned"",""Paid Search"",""Organic Search""]",NaN,1,158.339999,0,3
+"[""Referral"",""Email"",""Referral"",""Unassigned""]",NaN,1,158.399999,4,4
+"[""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,1,159.199996,0,8
+"[""Paid Search"",""Unassigned"",""Paid Search"",""Paid Search"",""Unassigned""]",NaN,1,159.199997,0,5
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Paid Search"",""Paid Search""]",NaN,1,160.159999,10,6
+"[""Referral"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,1,163.279997,0,4
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Organic Search"",""Paid Search""]",NaN,1,165.199997,8,5
+"[""Email"",""Referral"",""Email""]",NaN,1,165.599999,0,3
+"[""Paid Search"",""Email"",""Email"",""Unassigned"",""Unassigned"",""Cross-network"",""Cross-network""]",NaN,1,165.789997,9,7
+"[""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network"",""Referral""]",NaN,1,166.329999,0,7
+"[""Referral"",""Referral"",""Referral"",""Organic Search"",""Referral""]",NaN,1,169.509998,2,5
+"[""Paid Other"",""Paid Other""]",NaN,1,171.36,3,2
+"[""Organic Search"",""Paid Search"",""Email"",""Email"",""Email"",""Email"",""Email""]",NaN,1,174.799997,13,7
+"[""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Referral""]",NaN,1,175.599996,1,6
+"[""Email"",""Email"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,175.599997,6,7
+"[""Paid Search"",""Referral"",""Referral"",""Referral"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social""]",NaN,1,175.599997,13,8
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Email"",""Email""]",NaN,1,175.599997,66,7
+"[""Paid Search"",""Paid Search"",""Organic Social"",""Paid Search"",""Referral""]",NaN,1,175.599998,29,5
+"[""Paid Search"",""Organic Search"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,175.599998,50,6
+"[""Unassigned"",""Unassigned"",""Organic Social"",""Organic Social""]",NaN,1,175.599998,62,4
+"[""Organic Social"",""Organic Social"",""Referral"",""Referral"",""Referral""]",NaN,1,175.599998,62,5
+"[""Organic Social"",""Email"",""Organic Social""]",NaN,1,175.599999,0,3
+"[""Cross-network"",""Paid Search"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,175.599999,0,7
+"[""Organic Social"",""Organic Social"",""Paid Search"",""Organic Social"",""Organic Social"",""Organic Social"",""Email"",""Organic Social""]",NaN,1,175.599999,9,8
+"[""Organic Social"",""Referral""]",NaN,1,175.6,1,2
+"[""Referral"",""Paid Search"",""Paid Search"",""Referral""]",NaN,1,177,0,4
+"[""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Organic Search""]",NaN,1,177.099998,36,7
+"[""Paid Search"",""Paid Search"",""Organic Social"",""Paid Search"",""Organic Social""]",NaN,1,177.839999,0,5
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network"",""Cross-network"",""Cross-network""]",NaN,1,179.299996,1,6
+"[""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Unassigned""]",NaN,1,179.449998,1,5
+"[""Organic Search"",""Referral"",""Organic Search"",""Organic Search"",""Referral"",""Referral"",""Organic Search"",""Organic Search""]",NaN,1,180.009999,3,8
+"[""Referral"",""Paid Search"",""Cross-network""]",NaN,1,182.779999,13,3
+"[""Email"",""Unassigned"",""Unassigned"",""Paid Social""]",NaN,1,182.989999,16,4
+"[""Email"",""Email"",""Email"",""Organic Search"",""Email"",""Email"",""Email"",""Email""]",NaN,1,185.639999,57,8
+"[""Referral"",""Referral"",""Referral"",""Email"",""Referral""]",NaN,1,185.799999,10,5
+"[""Cross-network"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,1,186.509997,0,6
+"[""Organic Search"",""Organic Search"",""Unassigned"",""Organic Search""]",NaN,1,191.189998,0,4
+"[""Organic Search"",""Organic Social"",""Organic Social"",""Organic Social""]",NaN,1,192.599999,11,4
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Paid Other"",""Paid Other""]",NaN,1,194.739997,33,6
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search""]",NaN,1,194.849998,0,5
+"[""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Referral""]",NaN,1,196.1,55,6
+"[""Organic Search"",""Paid Search"",""Cross-network"",""Paid Search""]",NaN,1,197.009998,30,4
+"[""Paid Search"",""Paid Search"",""Paid Social"",""Paid Search""]",NaN,1,197.12,21,4
+"[""Unassigned"",""Cross-network"",""Cross-network"",""Display""]",NaN,1,197.179997,0,4
+"[""Paid Search"",""Organic Social"",""Paid Search""]",NaN,1,200.199999,1,3
+"[""Paid Search"",""Paid Search"",""Paid Social"",""Paid Social"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,200.2,8,7
+"[""Referral"",""Referral"",""Referral"",""Referral"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,200.54,51,7
+"[""Referral"",""Referral"",""Referral"",""Referral"",""Paid Search"",""Referral"",""Referral"",""Paid Search""]",NaN,1,204.099998,66,8
+"[""Paid Search"",""Organic Social"",""Organic Social"",""Paid Search"",""Referral""]",NaN,1,204.749999,26,5
+"[""Email"",""Paid Search"",""Email"",""Referral"",""Referral""]",NaN,1,205.919998,6,5
+"[""Unassigned"",""Email"",""Email"",""Email"",""Email"",""Email""]",NaN,1,206.999995,0,6
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network"",""Cross-network""]",NaN,1,207.9,2,7
+"[""Paid Search"",""Email"",""Paid Search"",""Paid Social""]",NaN,1,209.199998,2,4
+"[""Organic Search"",""Organic Search"",""Paid Search"",""Referral"",""Referral"",""Paid Search""]",NaN,1,210,67,6
+"[""Organic Social"",""Organic Social"",""Paid Search"",""Organic Social"",""Organic Social"",""Organic Social""]",NaN,1,210.719998,0,6
+"[""Organic Search"",""Paid Social"",""Paid Social"",""Paid Social"",""Email""]",NaN,1,211.119999,3,5
+"[""Paid Search"",""Unassigned"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,1,211.25,7,5
+"[""Paid Social"",""Paid Social"",""Email"",""Email"",""Paid Social""]",NaN,1,211.25,13,5
+"[""Referral"",""Paid Search"",""Referral"",""Referral"",""Referral"",""Paid Search""]",NaN,1,214.199998,0,6
+"[""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Search""]",NaN,1,214.599999,3,6
+"[""Unassigned"",""Referral"",""Unassigned"",""Referral""]",NaN,1,215.819999,41,4
+"[""Email"",""Referral"",""Paid Search"",""Unassigned"",""Email"",""Paid Search""]",NaN,1,220.409998,4,6
+"[""Paid Search"",""Unassigned"",""Display"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,220.799999,11,6
+"[""Organic Search"",""Organic Search"",""Organic Social"",""Organic Social""]",NaN,1,221.519998,14,4
+"[""Organic Social"",""Organic Social"",""Paid Search"",""Email"",""Organic Social""]",NaN,1,221.519999,19,5
+"[""Cross-network"",""Paid Search"",""Paid Social"",""Paid Social"",""Paid Search"",""Organic Search""]",NaN,1,222.549999,3,6
+"[""Unassigned"",""Unassigned"",""Paid Search"",""Paid Search""]",NaN,1,224.44,5,4
+"[""Paid Social"",""Paid Search"",""Paid Social"",""Paid Search"",""Paid Search""]",NaN,1,226.01,19,5
+"[""Organic Social"",""Organic Search""]",NaN,1,227,51,2
+"[""Organic Search"",""Organic Search"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,1,227.499998,7,7
+"[""Paid Search"",""Unassigned"",""Unassigned"",""Unassigned"",""Organic Social""]",NaN,1,227.719997,0,5
+"[""Display"",""Display"",""Display"",""Unassigned"",""Unassigned"",""Unassigned"",""Display"",""Unassigned""]",NaN,1,228.479995,0,8
+"[""Email"",""Paid Search"",""Paid Search"",""Paid Search"",""Referral"",""Referral""]",NaN,1,228.479996,2,6
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Organic Search"",""Unassigned""]",NaN,1,228.479999,2,5
+"[""Organic Search"",""Paid Search"",""Cross-network"",""Unassigned""]",NaN,1,230,2,4
+"[""Organic Search"",""Organic Search"",""Referral"",""Cross-network"",""Organic Search"",""Organic Search""]",NaN,1,231,9,6
+"[""Cross-network"",""Paid Search"",""Referral"",""Email"",""Email"",""Email""]",NaN,1,231,19,6
+"[""Organic Search"",""Organic Social""]",NaN,1,232,5,2
+"[""Cross-network"",""Referral"",""Referral"",""Unassigned""]",NaN,1,233.099998,18,4
+"[""Email"",""Paid Search"",""Unassigned""]",NaN,1,235.199999,0,3
+"[""Display"",""Display"",""Referral"",""Organic Search"",""Display"",""Display""]",NaN,1,235.619998,1,6
+"[""Paid Search"",""Organic Search"",""Unassigned"",""Unassigned"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,237.509999,3,7
+"[""Referral"",""Organic Search"",""Referral""]",NaN,1,238,0,3
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,238,47,8
+"[""Paid Search"",""Paid Search"",""Unassigned"",""Unassigned""]",NaN,1,238.069998,0,4
+"[""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Paid Search""]",NaN,1,242.759998,61,8
+"[""Paid Search"",""Paid Social"",""Paid Social"",""Paid Search"",""Organic Social"",""Paid Search""]",NaN,1,243.36,9,6
+"[""Cross-network"",""Cross-network"",""Paid Social"",""Paid Social"",""Cross-network""]",NaN,1,243.699998,27,5
+"[""Email"",""Email"",""Email"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,246.399998,5,6
+"[""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search""]",NaN,1,246.399999,49,4
+"[""Paid Search"",""Paid Search"",""Paid Social""]",NaN,1,247,15,3
+"[""Paid Search"",""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network"",""Paid Search"",""Paid Search""]",NaN,1,248.399999,34,7
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Social""]",NaN,1,251.199995,0,8
+"[""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social""]",NaN,1,251.2,0,8
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Display""]",NaN,1,252.399999,10,4
+"[""Cross-network"",""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search""]",NaN,1,253,7,5
+"[""Cross-network"",""Organic Search"",""Paid Search"",""Cross-network"",""Paid Search""]",NaN,1,254.399999,1,5
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network"",""Paid Search""]",NaN,1,257.209999,0,6
+"[""Organic Search"",""Referral"",""Referral"",""Organic Search"",""Referral""]",NaN,1,257.899999,0,5
+"[""Organic Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Paid Search"",""Paid Search""]",NaN,1,260,25,6
+"[""Referral"",""Paid Search"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,261.799999,0,6
+"[""Email"",""Email"",""Email"",""Email"",""Email"",""Email"",""Paid Search"",""Email""]",NaN,1,261.839998,71,8
+"[""Referral"",""Cross-network"",""Referral"",""Referral""]",NaN,1,263,0,4
+"[""Paid Search"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social""]",NaN,1,265.199999,2,8
+"[""Referral"",""Paid Social"",""Referral"",""Organic Social"",""Referral"",""Referral""]",NaN,1,265.199999,7,6
+"[""Unassigned"",""Unassigned"",""Paid Search"",""Organic Social""]",NaN,1,265.599999,4,4
+"[""Referral"",""Referral"",""Paid Search"",""Unassigned"",""Unassigned""]",NaN,1,267.919998,0,5
+"[""Referral"",""Paid Search"",""Referral"",""Referral"",""Paid Search""]",NaN,1,269.099999,0,5
+"[""Cross-network"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search""]",NaN,1,269.099999,2,7
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Paid Search""]",NaN,1,269.499999,9,4
+"[""Organic Search"",""Cross-network"",""Cross-network"",""Organic Search""]",NaN,1,271.199998,2,4
+"[""Display"",""Paid Search"",""Paid Search""]",NaN,1,271.25,76,3
+"[""Organic Search"",""Organic Search"",""Unassigned"",""Unassigned"",""Unassigned"",""Organic Search""]",NaN,1,271.319999,1,6
+"[""Email"",""Paid Social"",""Paid Social"",""Email"",""Email""]",NaN,1,271.319999,66,5
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Organic Social""]",NaN,1,271.579997,86,7
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social""]",NaN,1,271.58,33,7
+"[""Paid Search"",""Paid Search"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,273.239996,14,6
+"[""Paid Search"",""Paid Search"",""Organic Social""]",NaN,1,276,1,3
+"[""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Paid Search""]",NaN,1,277.089999,0,5
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,277.199997,73,8
+"[""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,1,277.199999,0,5
+"[""Email"",""Organic Search"",""Email"",""Email"",""Email"",""Paid Search""]",NaN,1,277.199999,1,6
+"[""Cross-network"",""Unassigned"",""Paid Search""]",NaN,1,278.6,0,3
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search""]",NaN,1,279.999997,22,8
+"[""Email"",""Email"",""Email"",""Email"",""Email"",""Referral""]",NaN,1,280,4,6
+"[""Referral"",""Referral"",""Cross-network"",""Cross-network"",""Referral"",""Referral""]",NaN,1,280,86,6
+"[""Referral"",""Referral"",""Referral"",""Referral"",""Paid Search"",""Organic Search"",""Referral"",""Referral""]",NaN,1,282.879998,0,8
+"[""Cross-network"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social""]",NaN,1,282.98,5,5
+"[""Paid Search"",""Email"",""Unassigned"",""Referral"",""Unassigned""]",NaN,1,285.599999,0,5
+"[""Paid Search"",""Paid Search"",""Cross-network"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network""]",NaN,1,285.599999,0,8
+"[""Unassigned"",""Paid Search"",""Unassigned"",""Unassigned""]",NaN,1,285.599999,2,4
+"[""Unassigned"",""Email"",""Email"",""Email"",""Email"",""Email"",""Email"",""Email""]",NaN,1,285.599999,2,8
+"[""Cross-network"",""Paid Search"",""Referral"",""Paid Search""]",NaN,1,285.599999,3,4
+"[""Unassigned"",""Display"",""Display"",""Display""]",NaN,1,285.599999,12,4
+"[""Email"",""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network""]",NaN,1,285.599999,12,5
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Display"",""Organic Search""]",NaN,1,285.6,0,5
+"[""Unassigned"",""Unassigned"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social""]",NaN,1,285.6,63,7
+"[""Cross-network"",""Paid Search"",""Unassigned"",""Paid Search"",""Unassigned""]",NaN,1,286.559999,35,5
+"[""Referral"",""Cross-network"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social""]",NaN,1,286.719999,11,7
+"[""Paid Search"",""Referral"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Email"",""Email""]",NaN,1,289.249998,76,8
+"[""Paid Search"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social""]",NaN,1,289.599997,0,5
+"[""Referral"",""Display"",""Unassigned""]",NaN,1,289.789999,7,3
+"[""Email"",""Email"",""Paid Social"",""Paid Social"",""Email"",""Email"",""Email"",""Email""]",NaN,1,289.939997,74,8
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Email"",""Email""]",NaN,1,292.599999,5,6
+"[""Paid Social"",""Paid Search"",""Email"",""Email""]",NaN,1,292.6,6,4
+"[""Paid Search"",""Cross-network"",""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Paid Search""]",NaN,1,293.599999,9,8
+"[""Paid Social"",""Paid Social"",""Organic Search"",""Organic Search""]",NaN,1,294.099999,4,4
+"[""Cross-network"",""Paid Search"",""Cross-network"",""Email"",""Email""]",NaN,1,294.199998,8,5
+"[""Referral"",""Display"",""Paid Search""]",NaN,1,295.6,21,3
+"[""Paid Search"",""Display"",""Unassigned"",""Paid Search""]",NaN,1,295.679999,3,4
+"[""Paid Search"",""Paid Social"",""Paid Social"",""Paid Social"",""Display"",""Paid Search"",""Paid Search""]",NaN,1,297.499999,3,7
+"[""Paid Search"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,302.399997,22,7
+"[""Organic Search"",""Organic Social"",""Organic Social"",""Referral"",""Referral""]",NaN,1,302.399999,50,5
+"[""Paid Search"",""Unassigned"",""Organic Search"",""Organic Search""]",NaN,1,302.719998,32,4
+"[""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Email"",""Email"",""Cross-network""]",NaN,1,303,39,7
+"[""Email"",""Cross-network"",""Organic Search""]",NaN,1,304.149999,1,3
+"[""Paid Search"",""Organic Search"",""Email"",""Email""]",NaN,1,304.469998,18,4
+"[""Unassigned"",""Paid Search"",""Paid Search"",""Unassigned""]",NaN,1,308,0,4
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search""]",NaN,1,308,0,7
+"[""Email"",""Email"",""Email"",""Email"",""Email"",""Organic Search"",""Organic Search"",""Email""]",NaN,1,308,1,8
+"[""Paid Search"",""Referral"",""Paid Search"",""Referral"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,308,3,7
+"[""Paid Search"",""Referral"",""Paid Search"",""Referral"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,308,3,8
+"[""Cross-network"",""Paid Search"",""Organic Search"",""Organic Search""]",NaN,1,308,6,4
+"[""Referral"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,308,8,5
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Paid Search""]",NaN,1,308,19,6
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Organic Search"",""Paid Search"",""Cross-network"",""Cross-network""]",NaN,1,308,19,7
+"[""Email"",""Email"",""Email"",""Paid Social"",""Display"",""Display"",""Email"",""Paid Search""]",NaN,1,308,19,8
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Display"",""Cross-network"",""Unassigned""]",NaN,1,308,23,8
+"[""Unassigned"",""Paid Search"",""Cross-network"",""Paid Search""]",NaN,1,308,24,4
+"[""Paid Social"",""Paid Social"",""Cross-network"",""Paid Social"",""Unassigned""]",NaN,1,308,32,5
+"[""Email"",""Email"",""Paid Social"",""Paid Social"",""Paid Social"",""Referral""]",NaN,1,308,84,6
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search""]",NaN,1,309.599998,0,7
+"[""Paid Search"",""Email"",""Paid Social"",""Paid Social"",""Email"",""Email""]",NaN,1,309.599998,28,6
+"[""Organic Social"",""Cross-network"",""Paid Search"",""Unassigned""]",NaN,1,309.6,46,4
+"[""Email"",""Organic Social""]",NaN,1,310,0,2
+"[""Organic Search"",""Paid Search"",""Paid Search"",""Paid Social"",""Paid Social""]",NaN,1,314.159998,14,5
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network""]",NaN,1,316.079996,1,7
+"[""Paid Search"",""Cross-network"",""Referral"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,316.799998,2,8
+"[""Paid Search"",""Email"",""Email"",""Paid Search"",""Cross-network""]",NaN,1,316.799998,81,5
+"[""Referral"",""Paid Social"",""Referral""]",NaN,1,316.799999,1,3
+"[""Referral"",""Referral"",""Paid Search"",""Paid Search"",""Referral"",""Referral""]",NaN,1,316.849997,16,6
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Referral"",""Organic Search"",""Organic Search""]",NaN,1,318.399998,85,7
+"[""Referral"",""Referral"",""Email"",""Email"",""Email""]",NaN,1,319.499998,2,5
+"[""Organic Social"",""Organic Search"",""Paid Search""]",NaN,1,319.5,7,3
+"[""Paid Search"",""Referral"",""Organic Search"",""Organic Search""]",NaN,1,320.159999,33,4
+"[""Email"",""Organic Search"",""Email"",""Email"",""Organic Search"",""Email"",""Email""]",NaN,1,320.179999,0,7
+"[""Unassigned"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,321.499999,14,4
+"[""Paid Other"",""Paid Search""]",NaN,1,321.599999,4,2
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search""]",NaN,1,322.079996,12,7
+"[""Organic Social"",""Referral"",""Referral"",""Referral"",""Organic Social""]",NaN,1,322.379998,0,5
+"[""Referral"",""Paid Search"",""Paid Search"",""Referral"",""Referral"",""Referral""]",NaN,1,322.379998,7,6
+"[""Referral"",""Referral"",""Email"",""Paid Search"",""Organic Social"",""Organic Search""]",NaN,1,323.299998,12,6
+"[""Paid Search"",""Display"",""Cross-network"",""Display"",""Cross-network""]",NaN,1,324.299999,36,5
+"[""Organic Search"",""Display""]",NaN,1,325,0,2
+"[""Paid Search"",""Paid Search"",""Unassigned"",""Paid Search""]",NaN,1,325,0,4
+"[""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Social""]",NaN,1,325,37,5
+"[""Paid Search"",""Cross-network"",""Cross-network"",""Email"",""Email"",""Email""]",NaN,1,325.579998,3,6
+"[""Organic Social"",""Organic Social"",""Organic Social"",""Organic Search""]",NaN,1,326.16,46,4
+"[""Organic Social"",""Organic Social"",""Organic Social"",""Unassigned"",""Unassigned"",""Organic Social"",""Referral""]",NaN,1,328.159996,1,7
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Referral"",""Organic Search""]",NaN,1,328.219997,0,5
+"[""Organic Search"",""Paid Search"",""Cross-network"",""Paid Search"",""Organic Search""]",NaN,1,328.899999,30,5
+"[""Paid Search"",""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network"",""Paid Search""]",NaN,1,329.539997,25,8
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,1,331.159999,3,6
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Paid Social""]",NaN,1,331.499999,0,4
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search""]",NaN,1,332,0,6
+"[""Paid Search"",""Unassigned"",""Referral"",""Referral"",""Unassigned"",""Organic Search"",""Organic Search""]",NaN,1,332.499999,10,7
+"[""Organic Search"",""Cross-network"",""Organic Search"",""Cross-network"",""Organic Search""]",NaN,1,332.5,27,5
+"[""Referral"",""Email"",""Email"",""Organic Search"",""Unassigned"",""Unassigned"",""Referral""]",NaN,1,333.789997,22,7
+"[""Referral"",""Referral"",""Email"",""Email"",""Email"",""Referral""]",NaN,1,336.489998,17,6
+"[""Paid Search"",""Paid Search"",""Unassigned"",""Unassigned"",""Unassigned"",""Paid Search""]",NaN,1,338.799997,1,6
+"[""Email"",""Display"",""Email"",""Email""]",NaN,1,339,36,4
+"[""Email"",""Email"",""Organic Search"",""Organic Search""]",NaN,1,339.559998,2,4
+"[""Email"",""Email"",""Paid Search"",""Referral"",""Email""]",NaN,1,340.159998,0,5
+"[""Paid Search"",""Unassigned"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,340.289999,65,5
+"[""Paid Search"",""Email"",""Organic Search"",""Paid Search"",""Cross-network"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,1,340.399997,21,8
+"[""Paid Search"",""Referral"",""Referral"",""Organic Search"",""Organic Search""]",NaN,1,340.399998,6,5
+"[""Referral"",""Referral"",""Referral"",""Referral"",""Email"",""Email""]",NaN,1,343.869996,1,6
+"[""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,1,345,8,7
+"[""Cross-network"",""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,345,61,6
+"[""Paid Search"",""Paid Search"",""Referral"",""Paid Search"",""Referral""]",NaN,1,345.289999,28,5
+"[""Paid Search"",""Paid Search"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,1,346.549998,62,5
+"[""Paid Search"",""Paid Search"",""Email"",""Email"",""Email"",""Email"",""Paid Search"",""Paid Search""]",NaN,1,347.999998,3,8
+"[""Unassigned"",""Paid Search"",""Organic Search"",""Referral""]",NaN,1,350,0,4
+"[""Unassigned"",""Unassigned"",""Referral""]",NaN,1,351.199998,0,3
+"[""Organic Social"",""Paid Social"",""Referral"",""Referral"",""Referral""]",NaN,1,351.199998,7,5
+"[""Organic Social"",""Unassigned"",""Organic Social""]",NaN,1,351.2,6,3
+"[""Paid Search"",""Organic Search"",""Referral"",""Referral""]",NaN,1,354.199998,0,4
+"[""Paid Search"",""Unassigned"",""Organic Search""]",NaN,1,355.859998,21,3
+"[""Paid Search"",""Cross-network"",""Unassigned""]",NaN,1,356,26,3
+"[""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Email"",""Email"",""Email""]",NaN,1,358.199998,89,7
+"[""Paid Search"",""Referral"",""Referral"",""Paid Search"",""Paid Search""]",NaN,1,358.199999,1,5
+"[""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Display""]",NaN,1,358.199999,41,6
+"[""Paid Search"",""Cross-network"",""Cross-network"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,358.399997,72,7
+"[""Paid Search"",""Referral"",""Referral"",""Paid Other"",""Referral"",""Referral""]",NaN,1,362.109999,1,6
+"[""Paid Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Referral"",""Referral""]",NaN,1,365.199999,0,7
+"[""Referral"",""Paid Search"",""Paid Social"",""Referral"",""Referral""]",NaN,1,366.159998,21,5
+"[""Unassigned"",""Display""]",NaN,1,367,7,2
+"[""Paid Social"",""Paid Social"",""Display"",""Email"",""Cross-network"",""Display"",""Paid Search""]",NaN,1,367,7,7
+"[""Paid Search"",""Cross-network"",""Paid Social"",""Email"",""Email"",""Email""]",NaN,1,367,25,6
+"[""Cross-network"",""Cross-network"",""Cross-network"",""Paid Social""]",NaN,1,369,20,4
+"[""Referral"",""Referral"",""Referral"",""Email"",""Referral"",""Referral""]",NaN,1,369.599997,16,6
+"[""Paid Search"",""Unassigned"",""Email"",""Email""]",NaN,1,369.599998,5,4
+"[""Paid Search"",""Paid Search"",""Unassigned"",""Paid Search"",""Paid Search"",""Unassigned""]",NaN,1,369.599999,23,6
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search""]",NaN,1,371.999999,27,8
+"[""Email"",""Email"",""Email"",""Organic Search"",""Organic Search"",""Email""]",NaN,1,373.749998,7,6
+"[""Email"",""Organic Search"",""Cross-network"",""Organic Search""]",NaN,1,373.749999,0,4
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Referral"",""Organic Search""]",NaN,1,373.749999,2,6
+"[""Paid Search"",""Cross-network"",""Paid Search"",""Organic Search"",""Organic Search"",""Email"",""Paid Social"",""Paid Social""]",NaN,1,374.219999,19,8
+"[""Paid Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network"",""Organic Search""]",NaN,1,375.199997,0,7
+"[""Paid Search"",""Paid Search"",""Email"",""Email"",""Organic Search"",""Email""]",NaN,1,375.199998,0,6
+"[""Paid Search"",""Paid Search"",""Email"",""Email"",""Organic Search"",""Email"",""Email""]",NaN,1,375.199998,0,7
+"[""Paid Social"",""Display"",""Paid Search""]",NaN,1,375.399999,24,3
+"[""Paid Search"",""Email"",""Paid Search"",""Email"",""Email"",""Email"",""Email"",""Organic Search""]",NaN,1,375.899998,1,8
+"[""Referral"",""Referral"",""Email"",""Paid Search""]",NaN,1,376.199999,10,4
+"[""Email"",""Paid Social"",""Paid Social"",""Email"",""Email"",""Email"",""Referral""]",NaN,1,376.199999,83,7
+"[""Organic Search"",""Paid Search"",""Referral"",""Referral""]",NaN,1,376.899999,12,4
+"[""Paid Search"",""Cross-network"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,377,28,7
+"[""Paid Social"",""Paid Social"",""Paid Social"",""Display"",""Paid Search""]",NaN,1,378.399999,1,5
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,1,379.559997,28,8
+"[""Unassigned"",""Unassigned"",""Paid Search"",""Organic Search"",""Unassigned"",""Paid Search"",""Paid Search"",""Unassigned""]",NaN,1,379.819998,3,8
+"[""Paid Social"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network""]",NaN,1,380.02,1,6
+"[""Paid Search"",""Unassigned"",""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,1,382.469996,1,6
+"[""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social""]",NaN,1,385,0,6
+"[""Organic Search"",""Unassigned"",""Unassigned"",""Paid Search"",""Paid Search""]",NaN,1,387.399998,26,5
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Cross-network"",""Organic Search""]",NaN,1,387.399999,85,5
+"[""Paid Search"",""Organic Search"",""Paid Search"",""Referral""]",NaN,1,390.009998,27,4
+"[""Paid Search"",""Organic Search"",""Cross-network"",""Paid Search""]",NaN,1,390.359999,28,4
+"[""Paid Search"",""Display"",""Paid Search"",""Organic Search"",""Referral"",""Referral""]",NaN,1,390.479998,1,6
+"[""Paid Search"",""Email"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,393.199998,89,6
+"[""Email"",""Email"",""Paid Social""]",NaN,1,393.68,0,3
+"[""Cross-network"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,1,393.759999,36,7
+"[""Paid Search"",""Referral"",""Referral"",""Paid Search"",""Paid Search"",""Referral"",""Organic Search"",""Organic Search""]",NaN,1,394.019996,1,8
+"[""Paid Search"",""Paid Search"",""Cross-network"",""Display"",""Paid Social"",""Paid Search"",""Paid Search""]",NaN,1,394.019999,4,7
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search""]",NaN,1,395.199999,37,7
+"[""Paid Search"",""Paid Search"",""Display"",""Email"",""Cross-network"",""Cross-network""]",NaN,1,395.999999,1,6
+"[""Email"",""Referral"",""Email"",""Email"",""Email""]",NaN,1,396,1,5
+"[""Email"",""Cross-network"",""Cross-network""]",NaN,1,396,5,3
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,396,5,7
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Referral"",""Referral""]",NaN,1,396,7,5
+"[""Organic Search"",""Organic Search"",""Display"",""Paid Search""]",NaN,1,396,26,4
+"[""Referral"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Referral"",""Organic Search"",""Organic Search""]",NaN,1,396,38,8
+"[""Cross-network"",""Paid Search"",""Paid Search"",""Referral"",""Referral""]",NaN,1,396.499999,1,5
+"[""Email"",""Email"",""Unassigned"",""Email""]",NaN,1,397.999998,82,4
+"[""Email"",""Cross-network"",""Paid Search"",""Paid Search""]",NaN,1,398,0,4
+"[""Display"",""Display"",""Display"",""Display"",""Email"",""Paid Search""]",NaN,1,398,10,6
+"[""Email"",""Email"",""Organic Search""]",NaN,1,398,14,3
+"[""Cross-network"",""Organic Search"",""Paid Search"",""Organic Search"",""Paid Search"",""Paid Search""]",NaN,1,398,79,6
+"[""Paid Search"",""Cross-network"",""Cross-network"",""Paid Social""]",NaN,1,400.399999,60,4
+"[""Email"",""Unassigned"",""Unassigned""]",NaN,1,400.959999,1,3
+"[""Email"",""Email"",""Paid Social"",""Email""]",NaN,1,402.499999,2,4
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Unassigned"",""Unassigned"",""Cross-network"",""Unassigned""]",NaN,1,402.6,0,8
+"[""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network""]",NaN,1,403.77,30,5
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search""]",NaN,1,407.099997,8,6
+"[""Paid Search"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,1,407.999999,0,4
+"[""Organic Search"",""Cross-network"",""Display"",""Paid Search"",""Paid Search""]",NaN,1,408.159999,45,5
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search""]",NaN,1,408.319999,14,8
+"[""Organic Social"",""Organic Search"",""Display"",""Paid Search"",""Organic Social""]",NaN,1,409.919999,1,5
+"[""Paid Search"",""Paid Search"",""Email"",""Email"",""Paid Social"",""Paid Social"",""Paid Social""]",NaN,1,410.289997,0,7
+"[""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,1,411.099999,5,8
+"[""Referral"",""Referral"",""Cross-network""]",NaN,1,411.12,48,3
+"[""Paid Search"",""Organic Social"",""Organic Social"",""Organic Social"",""Paid Search""]",NaN,1,411.839997,1,5
+"[""Organic Search"",""Paid Social"",""Email""]",NaN,1,411.85,7,3
+"[""Referral"",""Unassigned"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,1,412,0,5
+"[""Unassigned"",""Email"",""Unassigned""]",NaN,1,414,17,3
+"[""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Referral"",""Paid Social"",""Referral""]",NaN,1,414.01,2,7
+"[""Referral"",""Email"",""Email"",""Email""]",NaN,1,415,0,4
+"[""Paid Search"",""Email"",""Email"",""Email"",""Email"",""Email"",""Paid Search"",""Paid Search""]",NaN,1,415,2,8
+"[""Paid Search"",""Referral"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Other""]",NaN,1,415,6,6
+"[""Organic Search"",""Email"",""Organic Search"",""Organic Search"",""Email"",""Email"",""Email""]",NaN,1,415.639999,12,7
+"[""Referral"",""Referral"",""Display"",""Referral""]",NaN,1,415.799998,49,4
+"[""Unassigned"",""Email"",""Unassigned"",""Email""]",NaN,1,415.799999,3,4
+"[""Referral"",""Referral"",""Unassigned"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,420,56,8
+"[""Organic Social"",""Organic Social"",""Paid Search"",""Organic Social"",""Organic Social""]",NaN,1,421.439999,0,5
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social""]",NaN,1,421.599999,32,7
+"[""Organic Social"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search""]",NaN,1,422.5,64,6
+"[""Paid Search"",""Paid Search"",""Unassigned"",""Unassigned"",""Paid Search"",""Paid Search"",""Unassigned""]",NaN,1,423.299998,13,7
+"[""Cross-network"",""Cross-network"",""Email"",""Cross-network""]",NaN,1,425.199999,52,4
+"[""Paid Search"",""Cross-network"",""Paid Search"",""Referral""]",NaN,1,426.029998,8,4
+"[""Referral"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Paid Search""]",NaN,1,427.999999,4,7
+"[""Unassigned"",""Unassigned"",""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search""]",NaN,1,428.399998,0,6
+"[""Paid Search"",""Email"",""Email"",""Paid Search"",""Email""]",NaN,1,428.4,20,5
+"[""Email"",""Cross-network"",""Cross-network"",""Unassigned""]",NaN,1,431.629999,31,4
+"[""Email"",""Email"",""Email"",""Email"",""Display"",""Display""]",NaN,1,432,6,6
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Unassigned"",""Paid Search"",""Paid Search""]",NaN,1,432.799998,2,6
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Unassigned"",""Paid Search"",""Paid Search""]",NaN,1,432.799998,21,7
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,1,434.199998,1,8
+"[""Email"",""Paid Social""]",NaN,1,434.85,0,2
+"[""Paid Social"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Referral""]",NaN,1,436.589998,6,7
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Paid Search"",""Unassigned""]",NaN,1,437.199998,4,7
+"[""Organic Search"",""Cross-network"",""Cross-network"",""Paid Search""]",NaN,1,437.399999,23,4
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Social"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,437.799997,5,8
+"[""Organic Social"",""Paid Search""]",NaN,1,437.8,59,2
+"[""Organic Search"",""Organic Search"",""Cross-network"",""Paid Search""]",NaN,1,442,4,4
+"[""Unassigned"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,1,442.749999,65,7
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Display"",""Referral"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,1,443.199997,28,8
+"[""Paid Search"",""Organic Search"",""Unassigned"",""Organic Search""]",NaN,1,445.599998,5,4
+"[""Cross-network"",""Cross-network"",""Paid Search"",""Cross-network"",""Cross-network""]",NaN,1,446.199999,17,5
+"[""Cross-network"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,446.599998,14,4
+"[""Display"",""Display"",""Email""]",NaN,1,447.5,14,3
+"[""Display"",""Cross-network"",""Cross-network"",""Cross-network""]",NaN,1,447.829999,51,4
+"[""Email"",""Email"",""Cross-network""]",NaN,1,448.199999,0,3
+"[""Referral"",""Organic Search"",""Referral"",""Referral""]",NaN,1,448.509999,0,4
+"[""Paid Search"",""Organic Social"",""Organic Social"",""Paid Search""]",NaN,1,451.199998,0,4
+"[""Paid Search"",""Paid Search"",""Referral"",""Paid Search"",""Paid Search"",""Referral""]",NaN,1,454.799998,1,6
+"[""Paid Search"",""Referral"",""Email"",""Referral""]",NaN,1,455,88,4
+"[""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,455.4,29,7
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Cross-network"",""Cross-network""]",NaN,1,456.799999,27,5
+"[""Paid Social"",""Cross-network"",""Cross-network""]",NaN,1,460,2,3
+"[""Paid Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search""]",NaN,1,462,27,7
+"[""Cross-network"",""Cross-network"",""Paid Search"",""Cross-network"",""Paid Search"",""Paid Search""]",NaN,1,462.939998,87,6
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,1,464,10,7
+"[""Email"",""Display"",""Display"",""Cross-network""]",NaN,1,464,21,4
+"[""Unassigned"",""Paid Search"",""Organic Search"",""Paid Search""]",NaN,1,465.659998,0,4
+"[""Email"",""Cross-network"",""Cross-network"",""Email"",""Email"",""Display"",""Cross-network""]",NaN,1,467.899997,36,7
+"[""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral"",""Email""]",NaN,1,472.599998,4,8
+"[""Unassigned"",""Referral"",""Organic Search"",""Referral"",""Organic Search""]",NaN,1,473.099999,35,5
+"[""Paid Social"",""Paid Social"",""Email"",""Email"",""Email""]",NaN,1,474,61,5
+"[""Referral"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search""]",NaN,1,478,4,6
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,1,479,27,7
+"[""Organic Search"",""Organic Social"",""Organic Social""]",NaN,1,482.199999,11,3
+"[""Unassigned"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network""]",NaN,1,483.409995,2,6
+"[""Email"",""Referral"",""Email"",""Referral"",""Email"",""Organic Search"",""Paid Search""]",NaN,1,484.159996,22,7
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Unassigned"",""Cross-network""]",NaN,1,484.159997,1,7
+"[""Paid Search"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,1,485.519997,1,7
+"[""Organic Search"",""Paid Social""]",NaN,1,487.4,6,2
+"[""Cross-network"",""Paid Search"",""Paid Search"",""Organic Search"",""Paid Search"",""Paid Search""]",NaN,1,489.679997,47,6
+"[""Cross-network"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,490.889996,17,5
+"[""Referral"",""Referral"",""Organic Search"",""Paid Search"",""Referral""]",NaN,1,492.799999,0,5
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Referral""]",NaN,1,492.799999,3,4
+"[""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search""]",NaN,1,494,7,5
+"[""Paid Social"",""Paid Social"",""Paid Social"",""Paid Search""]",NaN,1,494,39,4
+"[""Organic Search"",""Organic Search"",""Paid Social""]",NaN,1,495,8,3
+"[""Paid Search"",""Referral"",""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,1,495.099998,56,6
+"[""Referral"",""Referral"",""Referral"",""Paid Social"",""Display""]",NaN,1,495.099999,2,5
+"[""Cross-network"",""Unassigned"",""Cross-network"",""Unassigned""]",NaN,1,496.599999,36,4
+"[""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Organic Search""]",NaN,1,498.58,27,5
+"[""Organic Search"",""Paid Search"",""Unassigned""]",NaN,1,498.959999,8,3
+"[""Organic Search"",""Paid Search"",""Paid Search"",""Referral"",""Referral"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,500.039995,1,8
+"[""Organic Search"",""Organic Search"",""Display""]",NaN,1,502.4,0,3
+"[""Unassigned"",""Unassigned"",""Display""]",NaN,1,508.5,0,3
+"[""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Cross-network"",""Organic Search""]",NaN,1,510.399998,2,6
+"[""Email"",""Email"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,1,514.079998,15,5
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Referral""]",NaN,1,514.109997,1,4
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,1,515.809998,0,7
+"[""Paid Search"",""Organic Social"",""Organic Social"",""Organic Social""]",NaN,1,521.439999,10,4
+"[""Referral"",""Organic Search"",""Referral"",""Organic Social"",""Organic Social"",""Organic Social"",""Organic Social""]",NaN,1,523.599998,3,7
+"[""Organic Search"",""Organic Search"",""Unassigned"",""Unassigned"",""Paid Search""]",NaN,1,523.599998,7,5
+"[""Paid Search"",""Referral"",""Paid Search"",""Paid Search"",""Referral"",""Paid Search"",""Paid Search"",""Cross-network""]",NaN,1,523.599998,31,8
+"[""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network"",""Cross-network""]",NaN,1,523.599999,0,8
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Paid Other""]",NaN,1,524.839998,2,6
+"[""Referral"",""Paid Search"",""Paid Search"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,529.41,1,8
+"[""Unassigned"",""Organic Search"",""Organic Search"",""Cross-network"",""Organic Search""]",NaN,1,531.199998,7,5
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,532.2,9,8
+"[""Email"",""Email"",""Email"",""Email"",""Email"",""Organic Search"",""Organic Search""]",NaN,1,535.199997,28,7
+"[""Unassigned"",""Organic Search"",""Organic Search"",""Email"",""Email""]",NaN,1,536.769997,48,5
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,1,537,1,8
+"[""Paid Social"",""Paid Social"",""Email""]",NaN,1,537.3,12,3
+"[""Email"",""Email"",""Paid Social"",""Email"",""Email"",""Email""]",NaN,1,539,2,6
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search""]",NaN,1,542.399998,1,6
+"[""Paid Search"",""Paid Social"",""Paid Social"",""Paid Social"",""Cross-network"",""Paid Search"",""Display"",""Paid Search""]",NaN,1,542.5,28,8
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Unassigned"",""Referral"",""Paid Search"",""Referral""]",NaN,1,543.169998,31,7
+"[""Paid Search"",""Cross-network"",""Cross-network"",""Paid Search"",""Display"",""Paid Search"",""Referral"",""Referral""]",NaN,1,548.159998,55,8
+"[""Organic Search"",""Email"",""Email"",""Email"",""Email"",""Paid Search"",""Referral""]",NaN,1,550.499999,9,7
+"[""Cross-network"",""Paid Search"",""Cross-network""]",NaN,1,551,53,3
+"[""Email"",""Paid Other"",""Email"",""Email"",""Email"",""Email"",""Paid Other"",""Paid Other""]",NaN,1,552,21,8
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Referral"",""Referral"",""Email"",""Referral""]",NaN,1,552.049998,43,7
+"[""Email"",""Cross-network"",""Display"",""Unassigned""]",NaN,1,554.299998,54,4
+"[""Paid Search"",""Paid Search"",""Referral"",""Unassigned""]",NaN,1,554.399998,0,4
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Referral"",""Paid Search"",""Paid Search""]",NaN,1,557,56,8
+"[""Email"",""Paid Search"",""Organic Search""]",NaN,1,559.199999,12,3
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Unassigned"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,564.299998,1,8
+"[""Email"",""Referral"",""Paid Search"",""Paid Search"",""Organic Search"",""Organic Search""]",NaN,1,565,58,6
+"[""Paid Social"",""Paid Search"",""Organic Search""]",NaN,1,565.019998,0,3
+"[""Organic Search"",""Email"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,1,565.019998,53,5
+"[""Organic Search"",""Paid Search"",""Paid Search"",""Cross-network""]",NaN,1,568,13,4
+"[""Referral"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,1,568.799994,11,8
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Organic Search"",""Organic Search""]",NaN,1,569,4,6
+"[""Cross-network"",""Email"",""Email"",""Email"",""Email"",""Email"",""Email"",""Email""]",NaN,1,571.199997,17,8
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Referral"",""Referral"",""Organic Search""]",NaN,1,571.199998,0,8
+"[""Email"",""Paid Search"",""Referral""]",NaN,1,571.199999,0,3
+"[""Paid Search"",""Cross-network"",""Cross-network"",""Email""]",NaN,1,572.799999,1,4
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Email"",""Referral"",""Paid Search"",""Email""]",NaN,1,573.119997,58,8
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Referral"",""Organic Search"",""Organic Search"",""Paid Search"",""Referral""]",NaN,1,576,20,8
+"[""Email"",""Unassigned"",""Email""]",NaN,1,577.5,2,3
+"[""Paid Search"",""Paid Search"",""Display"",""Paid Search""]",NaN,1,577.5,20,4
+"[""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,1,580.579998,1,6
+"[""Cross-network"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Email"",""Unassigned"",""Unassigned""]",NaN,1,582.799999,61,8
+"[""Paid Search"",""Paid Search"",""Display"",""Display"",""Paid Search"",""Paid Search""]",NaN,1,586.4,4,6
+"[""Display"",""Cross-network"",""Paid Search""]",NaN,1,589.79,29,3
+"[""Email"",""Paid Search"",""Referral"",""Referral""]",NaN,1,592.899997,2,4
+"[""Organic Search"",""Email"",""Cross-network"",""Referral""]",NaN,1,594,9,4
+"[""Referral"",""Referral"",""Referral"",""Paid Search"",""Organic Search"",""Cross-network""]",NaN,1,594,69,6
+"[""Paid Search"",""Email"",""Email"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,605.199998,78,6
+"[""Paid Search"",""Email"",""Email"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network""]",NaN,1,608.939998,4,8
+"[""Paid Search"",""Email"",""Paid Search"",""Organic Search"",""Unassigned""]",NaN,1,608.939999,1,5
+"[""Paid Search"",""Paid Social"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,609.249999,53,5
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search""]",NaN,1,609.279998,7,6
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search""]",NaN,1,616,27,8
+"[""Organic Search"",""Organic Search"",""Referral"",""Referral""]",NaN,1,616,35,4
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Cross-network"",""Organic Search"",""Organic Search""]",NaN,1,617.759998,0,7
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Referral"",""Paid Search"",""Paid Search""]",NaN,1,619,28,6
+"[""Paid Social"",""Paid Social"",""Paid Social"",""Organic Social"",""Paid Social"",""Paid Social"",""Paid Social""]",NaN,1,620.28,79,7
+"[""Paid Search"",""Display"",""Cross-network"",""Paid Search"",""Organic Search""]",NaN,1,624,22,5
+"[""Cross-network"",""Cross-network"",""Paid Search"",""Paid Search""]",NaN,1,624.609999,25,4
+"[""Unassigned"",""Email"",""Email"",""Email"",""Unassigned"",""Unassigned""]",NaN,1,626.759997,1,6
+"[""Paid Search"",""Paid Search"",""Referral"",""Paid Search""]",NaN,1,633,6,4
+"[""Referral"",""Referral"",""Cross-network"",""Unassigned"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,633.599997,63,8
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Social"",""Display"",""Paid Search"",""Organic Search""]",NaN,1,634.779999,21,8
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Paid Search""]",NaN,1,635.499999,6,8
+"[""Email"",""Email"",""Cross-network"",""Email"",""Email"",""Email""]",NaN,1,640.359998,36,6
+"[""Email"",""Email"",""Email"",""Email"",""Cross-network""]",NaN,1,644.76,2,5
+"[""Paid Search"",""Paid Social"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,1,645,86,7
+"[""Email"",""Email"",""Email"",""Email"",""Paid Search"",""Cross-network"",""Organic Search""]",NaN,1,645.119995,0,7
+"[""Organic Search"",""Paid Search"",""Referral""]",NaN,1,645.999999,0,3
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Paid Search""]",NaN,1,646.399998,58,7
+"[""Referral"",""Referral"",""Paid Search"",""Referral"",""Paid Search""]",NaN,1,646.799999,5,5
+"[""Paid Social"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,1,647.25,63,5
+"[""Paid Search"",""Paid Other"",""Paid Search"",""Paid Search""]",NaN,1,653.949999,1,4
+"[""Cross-network"",""Paid Search"",""Email"",""Email"",""Email"",""Email"",""Email""]",NaN,1,654.399997,17,7
+"[""Paid Search"",""Referral"",""Organic Search"",""Paid Search""]",NaN,1,655.219998,1,4
+"[""Referral"",""Paid Social"",""Organic Social"",""Organic Social"",""Paid Social"",""Organic Social""]",NaN,1,660,12,6
+"[""Unassigned"",""Display"",""Display"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,1,665,0,8
+"[""Paid Search"",""Referral"",""Unassigned"",""Referral""]",NaN,1,671.199998,54,4
+"[""Email"",""Email"",""Email"",""Email"",""Organic Search"",""Email"",""Email"",""Email""]",NaN,1,677.159997,0,8
+"[""Organic Search"",""Email"",""Referral""]",NaN,1,677.599999,1,3
+"[""Paid Social"",""Paid Social"",""Cross-network"",""Cross-network"",""Cross-network"",""Paid Search""]",NaN,1,678,24,6
+"[""Paid Search"",""Cross-network"",""Paid Search"",""Organic Search"",""Paid Search""]",NaN,1,680.399999,31,5
+"[""Referral"",""Referral"",""Paid Search"",""Paid Search"",""Referral""]",NaN,1,680.579998,64,5
+"[""Email"",""Email"",""Cross-network"",""Email"",""Email"",""Paid Search"",""Email"",""Email""]",NaN,1,685.599997,2,8
+"[""Unassigned"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,696,2,5
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search""]",NaN,1,704.399998,4,7
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,1,708,7,6
+"[""Email"",""Email"",""Email"",""Email"",""Email"",""Email"",""Display"",""Email""]",NaN,1,708,38,8
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search""]",NaN,1,711,0,5
+"[""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,714,7,5
+"[""Paid Search"",""Paid Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Email"",""Email""]",NaN,1,714.779997,7,7
+"[""Paid Search"",""Unassigned"",""Paid Search"",""Unassigned"",""Unassigned""]",NaN,1,714.779998,1,5
+"[""Organic Search"",""Paid Search"",""Referral"",""Referral"",""Referral""]",NaN,1,715.999997,0,5
+"[""Paid Search"",""Referral"",""Paid Search"",""Referral"",""Referral"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,1,716.399997,0,8
+"[""Referral"",""Referral"",""Referral"",""Unassigned"",""Paid Search"",""Referral"",""Paid Search"",""Paid Search""]",NaN,1,716.399997,23,8
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Referral"",""Email"",""Referral""]",NaN,1,716.399998,1,6
+"[""Paid Search"",""Email"",""Unassigned""]",NaN,1,716.399999,15,3
+"[""Referral"",""Display"",""Referral""]",NaN,1,716.4,0,3
+"[""Referral"",""Organic Search"",""Paid Search"",""Organic Search"",""Organic Search""]",NaN,1,716.799997,9,5
+"[""Paid Search"",""Paid Search"",""Unassigned"",""Paid Search"",""Paid Search""]",NaN,1,716.799999,5,5
+"[""Paid Social"",""Paid Social"",""Cross-network""]",NaN,1,717,18,3
+"[""Paid Search"",""Organic Search"",""Paid Search"",""Unassigned"",""Paid Search"",""Paid Search"",""Cross-network"",""Organic Search""]",NaN,1,717.599998,10,8
+"[""Paid Search"",""Organic Search"",""Cross-network"",""Paid Social"",""Display""]",NaN,1,720,18,5
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Referral""]",NaN,1,720,45,6
+"[""Paid Search"",""Cross-network"",""Cross-network"",""Paid Search""]",NaN,1,726.8,22,4
+"[""Email"",""Organic Search"",""Email""]",NaN,1,734,1,3
+"[""Display"",""Display"",""Display"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,734,2,6
+"[""Paid Search"",""Paid Search"",""Cross-network"",""Display"",""Cross-network""]",NaN,1,734,29,5
+"[""Paid Search"",""Email"",""Email"",""Email"",""Email"",""Paid Search"",""Paid Search""]",NaN,1,734.759996,0,7
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Display"",""Paid Search""]",NaN,1,736.439999,10,6
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Unassigned"",""Paid Search""]",NaN,1,738.139999,3,5
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network"",""Cross-network"",""Cross-network"",""Paid Search"",""Unassigned""]",NaN,1,739.199997,9,8
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Email"",""Email"",""Email"",""Email""]",NaN,1,747.299996,20,8
+"[""Referral"",""Paid Search"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,749.699996,7,7
+"[""Paid Search"",""Paid Search"",""Email"",""Email"",""Email"",""Email"",""Paid Search"",""Organic Search""]",NaN,1,752.419995,0,8
+"[""Paid Other"",""Email"",""Email"",""Email""]",NaN,1,759.419998,0,4
+"[""Cross-network"",""Cross-network"",""Email"",""Email""]",NaN,1,767,15,4
+"[""Paid Search"",""Email"",""Paid Search"",""Organic Search"",""Organic Search""]",NaN,1,767.279998,2,5
+"[""Email"",""Referral"",""Referral"",""Email"",""Email"",""Email"",""Organic Search"",""Organic Search""]",NaN,1,771.119998,0,8
+"[""Organic Search"",""Referral"",""Referral"",""Referral"",""Paid Search"",""Referral""]",NaN,1,773.709997,17,6
+"[""Email"",""Email"",""Email"",""Email"",""Email"",""Cross-network"",""Email""]",NaN,1,773.709999,0,7
+"[""Paid Search"",""Paid Social"",""Paid Social"",""Paid Social"",""Cross-network"",""Paid Social"",""Paid Search"",""Email""]",NaN,1,774.799999,46,8
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network"",""Paid Search"",""Paid Search""]",NaN,1,780.499998,1,7
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Paid Search"",""Email""]",NaN,1,780.579996,1,8
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search""]",NaN,1,785.499999,7,7
+"[""Unassigned"",""Referral"",""Paid Search""]",NaN,1,791.999999,2,3
+"[""Cross-network"",""Cross-network"",""Unassigned""]",NaN,1,795.999999,6,3
+"[""Email"",""Organic Search"",""Email"",""Email"",""Organic Search"",""Email""]",NaN,1,796,0,6
+"[""Paid Video"",""Paid Search""]",NaN,1,796,8,2
+"[""Organic Search"",""Paid Search"",""Paid Search"",""Referral"",""Referral""]",NaN,1,796,8,5
+"[""Cross-network"",""Paid Social"",""Paid Social"",""Display""]",NaN,1,796,19,4
+"[""Paid Search"",""Paid Search"",""Email"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,799,83,8
+"[""Referral"",""Paid Social""]",NaN,1,799.679999,0,2
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search"",""Paid Search"",""Organic Search"",""Paid Search""]",NaN,1,804,0,7
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Unassigned""]",NaN,1,805.129998,0,4
+"[""Email"",""Email"",""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search""]",NaN,1,805.439997,1,6
+"[""Referral"",""Referral"",""Unassigned"",""Unassigned"",""Referral"",""Referral""]",NaN,1,808,7,6
+"[""Organic Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network"",""Paid Search""]",NaN,1,811.219998,58,7
+"[""Cross-network"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,1,816,74,7
+"[""Organic Search"",""Paid Other"",""Paid Other""]",NaN,1,816.399999,0,3
+"[""Paid Search"",""Paid Search"",""Cross-network"",""Organic Search""]",NaN,1,816.699999,29,4
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Search""]",NaN,1,816.799999,28,5
+"[""Cross-network"",""Display"",""Display""]",NaN,1,823.859999,6,3
+"[""Email"",""Email"",""Email"",""Email"",""Paid Search"",""Email"",""Organic Search""]",NaN,1,824.799998,37,7
+"[""Email"",""Organic Search"",""Organic Search"",""Organic Search"",""Unassigned"",""Organic Search""]",NaN,1,834.399998,4,6
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Organic Search"",""Paid Social"",""Paid Search"",""Display""]",NaN,1,834.479997,56,8
+"[""Unassigned"",""Unassigned"",""Paid Social"",""Paid Social""]",NaN,1,850.4,8,4
+"[""Email"",""Email"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Cross-network"",""Organic Search""]",NaN,1,850.799999,1,8
+"[""Referral"",""Unassigned"",""Email"",""Email""]",NaN,1,851.999999,78,4
+"[""Paid Search"",""Referral"",""Referral"",""Referral"",""Unassigned""]",NaN,1,852.399998,0,5
+"[""Email"",""Paid Search"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,859.679998,4,7
+"[""Paid Social"",""Cross-network"",""Paid Search"",""Cross-network""]",NaN,1,865,28,4
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Paid Search"",""Paid Search"",""Display"",""Email"",""Display""]",NaN,1,865.299996,2,8
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Paid Search"",""Paid Search""]",NaN,1,867.399999,4,5
+"[""Organic Search"",""Referral"",""Paid Search"",""Cross-network""]",NaN,1,884,70,4
+"[""Email"",""Display"",""Paid Other"",""Email""]",NaN,1,893.799999,1,4
+"[""Unassigned"",""Referral"",""Unassigned"",""Organic Search"",""Paid Search""]",NaN,1,895.999999,5,5
+"[""Email"",""Paid Social"",""Paid Social""]",NaN,1,898.579998,3,3
+"[""Email"",""Organic Search"",""Organic Search"",""Organic Search"",""Email""]",NaN,1,901.679999,2,5
+"[""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Referral""]",NaN,1,913,44,5
+"[""Cross-network"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,1,913.919997,0,4
+"[""Cross-network"",""Cross-network"",""Paid Search"",""Paid Search"",""Paid Social""]",NaN,1,914,19,5
+"[""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Organic Search"",""Organic Search""]",NaN,1,928,8,7
+"[""Organic Social"",""Organic Social"",""Referral"",""Referral"",""Referral"",""Referral"",""Referral""]",NaN,1,930,0,7
+"[""Organic Search"",""Email"",""Paid Search"",""Paid Search"",""Paid Search"",""Paid Search"",""Organic Search""]",NaN,1,930,79,7
+"[""Organic Search"",""Organic Search"",""Organic Search"",""Referral"",""Paid Search""]",NaN,1,935.999997,0,5
+"[""Paid Search"",""Paid Search"",""Cross-network"",""Paid Search"",""Organic Search"",""Organic Search""]",NaN,1,945.879998,2,6
+"[""Paid Search"",""Paid Social"",""Paid Social"",""Paid Social"",""Paid Social"",""Referral""]",NaN,1,950.399996,9,6
+"[""Paid Search"",""Organic Search"",""Organic Search"",""Unassigned"",""Unassigned"",""Unassigned"",""Paid Social""]",NaN,1,953,2,7
+"[""Email"",""Email"",""Referral""]",NaN,1,955.199999,15,3
+"[""Email"",""Organic Search"",""Organic Search"",""Email"",""Unassigned"",""Paid Search""]",NaN,1,969.199997,19,6
+"[""Paid Search"",""Paid Search"",""Paid Social"",""Paid Social"",""Paid Social"",""Cross-network""]",NaN,1,969.199998,52,6
+"[""Paid Search"",""Paid Search"",""Cross-network"",""Paid Search"",""Referral"",""Referral""]",NaN,1,987.999999,81,6
+"[""Paid Search"",""Email"",""Paid Search"",""Display"",""Unassigned"",""Paid Search""]",NaN,1,990,71,6
+"[""Paid Other"",""Unassigned"",""Unassigned"",""Unassigned""]",NaN,1,990.579999,0,4
+"[""Unassigned"",""Unassigned"",""Unassigned"",""Unassigned"",""Paid Social""]",NaN,1,993.439998,54,5
+"[""Unassigned"",""Email"",""Email""]",NaN,1,999.6,4,3

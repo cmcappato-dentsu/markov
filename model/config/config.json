@@ -1,0 +1,97 @@
+{
+    "progress": {
+        "enabled": true,
+        "log_every_channels": 5
+    },
+
+    "io": {
+        "inputs_dir": "data/input",
+        "outputs_dir": "data/output",
+        "input_csv": "data\\input\\Rutas_de_atribucion.csv",
+        "out_csv_attribution": "atribucion_markov_v3.csv",
+        "out_artifacts_json": "markov_artifacts.json",
+        "out_paths_model_input": "paths_model_input.csv",
+        "out_html_sankey": "sankey_markov_v3.html",
+        "out_html_scatter": "dependencias_scatter.html",
+        "out_txt_summary": "MARKOV_POSTANALISIS.txt"
+    },
+
+    "parsing": {
+        "path_separator": ">",
+        "null_aliases": ["NULL", "(NULL)", "NO CONVERSION", "NO_CONVERSION"],
+        "cleaning": {
+            "strip_quotes": true,
+            "trim": true,
+            "collapse_spaces": true,
+            "dedup_consecutive_steps": true
+        },
+        "reserved_state_suffix": "_CHAN"
+    },
+
+    "weights": {
+        "removal_w": 0.6,
+        "first_w": 0.4,
+        "min_attrib": 0.05
+    },
+
+    "non_converting_paths": {
+        "mode": "global_rate",
+        "global_rate": 0.3,
+        "absolute_count": 0
+    },
+
+    "exclusions": {
+        "exclude_for_removal": [],
+        "exclude_regex": ""
+    },
+
+    "numeric": {
+        "eps_num": 1e-12,
+        "eps_drop": 1e-9
+    },
+
+    "scenario": {
+        "simulate_scaling": false,
+        "scales": {},
+        "application": "paths_weight"
+    },
+
+    "sankey": {
+        "top_n_channels": 30,
+        "min_link_share": 0.0005
+    },
+
+    "post_analysis": {
+        "risk_basis": "auto",
+        "risk_thresholds_abs": {
+        "high": {
+            "removal_drop_min": 0.06, 
+            "touch_rate_min": 0.50
+        },
+        "medium": {
+            "removal_drop_min": 0.03
+        }
+        },
+        "risk_thresholds_share": {
+            "high": {
+                "removal_share_min": 0.25, 
+                "touch_rate_min": 0.35
+            },
+            "medium": {
+                "removal_share_min": 0.12
+            }
+        }
+    },
+
+    "sanity_checks": {
+        "enabled": true
+    },
+
+    "logging": {
+        "verbosity": "info"
+    },
+
+    "simulation": {
+        "remove_channel": "Direct"
+    }
+}
