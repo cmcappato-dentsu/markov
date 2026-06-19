@@ -280,6 +280,7 @@ if run_button or rerun_button:
         )
 
         st.session_state.model_executed = True
+        st.rerun()
         
 
             
