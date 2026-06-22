@@ -56,6 +56,9 @@ if "df_sum" not in st.session_state:
 if "df_base" not in st.session_state:
     st.session_state.df_base = None
 
+if "last_uploaded_file" not in st.session_state:
+    st.session_state.last_uploaded_file = None
+
 # Removed pre-population of available_channels from CSV to enforce
 # explicit model run before populating dropdowns.
 
@@ -69,6 +72,33 @@ uploaded_file = st.sidebar.file_uploader(
     "Subir CSV de rutas",
     type=["csv"]
 )
+
+# Reiniciar el estado si cambió el archivo
+current_file = (
+    uploaded_file.file_id
+    if uploaded_file is not None
+    else None
+)
+
+if current_file != st.session_state.last_uploaded_file:
+
+    st.session_state.last_uploaded_file = current_file
+
+    # Limpiar simulación
+    st.session_state.channels_to_remove = []
+    st.session_state.available_channels = []
+
+    # Limpiar resultados
+    st.session_state.results = None
+    st.session_state.artifacts = None
+    st.session_state.df_sum = None
+    st.session_state.df_base = None
+
+    st.session_state.model_executed = False
+
+    # Reiniciar selectbox
+    if "channel_to_remove" in st.session_state:
+        del st.session_state["channel_to_remove"]
 
 
 # ----------------------------
@@ -161,7 +191,8 @@ if st.session_state.model_executed:
 
     selected_channel = st.sidebar.selectbox(
         "Eliminar canal",
-        options=["Ninguno"] + st.session_state.available_channels
+        options=["Ninguno"] + st.session_state.available_channels,
+        key="channel_to_remove"
     )
 
     rerun_button = st.sidebar.button(
@@ -172,6 +203,18 @@ if st.session_state.model_executed:
 # MAIN
 # ----------------------------
 if run_button or rerun_button:
+    
+    selected_channel = st.sidebar.selectbox(
+        "Eliminar canal",
+        options=["Ninguno"] + st.session_state.available_channels,
+        key="channel_to_remove"
+    )
+    
+    if run_button:
+        st.session_state.channels_to_remove = []
+
+    if "channel_to_remove" in st.session_state:
+        del st.session_state["channel_to_remove"]
 
     with st.spinner("Ejecutando modelo Markov..."):
 
