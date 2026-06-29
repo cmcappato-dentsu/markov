@@ -48,9 +48,7 @@ def compute_markov_v3(
     total = len(channels)
     logging.info("Paso 3/4: Removal por reconstrucción (canales=%d)", total)
 
-    pbar, has_tqdm = (None, False)
-    if progress_enabled:
-        pbar, has_tqdm = get_progress_bar(total, "Removal (rebuild)")
+    progress = get_progress_bar(total_steps=total, mode="console")
 
     t_removal_start = time.perf_counter()
     for i, ch in enumerate(channels, 1):
@@ -62,19 +60,7 @@ def compute_markov_v3(
             drop = max(0.0, model0["baseline"] - model_minus["baseline"])
             removal_drop[ch] = 0.0 if drop < eps_drop else drop
 
-        if has_tqdm and pbar is not None:
-            pbar.update(1)
-        elif progress_enabled:
-            # Fallback por logs cada N canales
-            if (i == 1) or (i == total) or (i % max(1, progress_log_every) == 0):
-                elapsed = time.perf_counter() - t_removal_start
-                rate = i / max(1e-9, elapsed)  # canales/seg
-                eta_sec = (total - i) / max(1e-9, rate)
-                logging.info("Removal progreso: %d/%d (%.0f%%) | t=%.1fs | ETA=%.1fs",
-                             i, total, 100.0 * i / max(1, total), elapsed, eta_sec)
-
-    if has_tqdm and pbar is not None:
-        pbar.close()
+        progress.update(i, f"Procesando canal {i}/{total}")
 
     t3 = time.perf_counter()
     logging.info("Paso 3/4 OK: Removal completo (%.2fs)", t3 - t2)
@@ -119,4 +105,6 @@ def compute_markov_v3(
     logging.info("Paso 4/4 OK: Combinación y armado de outputs (%.2fs)", t4 - t3)
     logging.info("Tiempo total compute_markov_v3: %.2fs", t4 - t0)
 
-    return df_out, artifacts, df0  # df0: dataset base usado (con no-conversoras, scaling si aplicó)
+    progress.finish()
+    
+    return df_out, artifacts, df0

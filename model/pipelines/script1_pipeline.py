@@ -1,5 +1,5 @@
 import pandas as pd
-from model.utils import setup_logger
+from model.utils import setup_logger, get_progress_bar
 from model.preprocessing import normalize_and_remap_paths
 from model.attribution.removal import rebuild_df_without_channel
 from model.pipelines import compute_markov_v3
@@ -7,12 +7,15 @@ from model.in_out import load_config, load_paths_csv
 
 
 def run_markov_pipeline(
-    config_path: str, 
+    cfg: dict,
     df_input: pd.DataFrame | None = None,
-    channel_to_remove: str | None = None 
+    channel_to_remove: str | None = None
 ):
-    cfg = load_config(config_path)
     setup_logger(cfg.get("logging", {}).get("verbosity", "info"))
+    progress = get_progress_bar(
+        total_steps=4,
+        mode="console"
+    )
 
     # INPUT
     if df_input is not None:
@@ -20,13 +23,16 @@ def run_markov_pipeline(
     else:
         csv_path = cfg["io"]["input_csv"]
         df = load_paths_csv(csv_path)
-
+        
+    progress.update(1, "Preparando datos...")
 
     # CONFIG
     parsing_cfg = cfg.get("parsing", {})
     sep = parsing_cfg.get("path_separator", ">")
     cleaning_cfg = parsing_cfg.get("cleaning", {})
     channel_remap = cfg.get("mapping", {}).get("channel_remap", {})
+
+    progress.update(2, "Normalizando paths...")
 
     # ✅ NORMALIZACIÓN (CRÍTICO)
     df = normalize_and_remap_paths(df, sep, cleaning_cfg, channel_remap)
@@ -39,6 +45,7 @@ def run_markov_pipeline(
             cleaning_cfg
         )
 
+    progress.update(3, "Calculando matriz de transición...")
 
     # RUN ENGINE
     df_attr, artifacts, df_base = compute_markov_v3(
@@ -59,4 +66,8 @@ def run_markov_pipeline(
         exclude_regex=cfg["exclusions"]["exclude_regex"]
     )
 
+    progress.update(4, "Generando resultados...")
+
+    progress.finish()
+    
     return df_attr, artifacts, df_base

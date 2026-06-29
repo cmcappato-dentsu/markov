@@ -1,13 +1,21 @@
+import pandas as pd
 from model.attribution import compute_touch_rate_tokens, compute_avg_position_tokens, classify_risk_and_action, compute_channel_transitions, top_k_nodes
 from model.visualization import build_sankey_fig, build_scatter_fig
-from model.utils import build_summary_text
+from model.utils import build_summary_text, get_progress_bar
 
 
 def run_analysis_pipeline(df_paths, df_attr, artifacts, cfg):
     sep = cfg.get("parsing", {}).get("path_separator", " > ")
+    
+    progress = get_progress_bar(
+        total_steps=5,
+        mode="console"
+    )
 
     baseline = float(artifacts.get("baseline_structural_probability", 0.0))
     rem_drop_abs = artifacts.get("removal_drop_absolute", {})
+
+    progress.update(1, "Calculando métricas básicas...")
 
     # ✅ métricas
     touch_rate = compute_touch_rate_tokens(df_paths, sep)
@@ -19,6 +27,9 @@ def run_analysis_pipeline(df_paths, df_attr, artifacts, cfg):
     df_attr["touch_rate"] = df_attr["channel"].map(touch_rate).fillna(0.0)
     df_attr["avg_position"] = df_attr["channel"].map(avg_pos)
 
+    progress.update(2, "Clasificando riesgo...")
+
+
     # ✅ riesgo
     df_sum = classify_risk_and_action(
         df_attr,
@@ -27,6 +38,8 @@ def run_analysis_pipeline(df_paths, df_attr, artifacts, cfg):
         cfg.get("post_analysis", {}).get("risk_thresholds_abs", {}),
         cfg.get("post_analysis", {}).get("risk_thresholds_share", {})
     )
+
+    progress.update(3, "Construyendo Sankey...")
 
     # ✅ Sankey
     links, node_weight = compute_channel_transitions(df_paths, sep)
@@ -43,9 +56,13 @@ def run_analysis_pipeline(df_paths, df_attr, artifacts, cfg):
         df_sum,
         cfg.get("sankey", {}).get("min_link_share", 0.0005)
     )
+    
+    progress.update(4, "Construyendo scatter...")
 
     # Scatter
     scatter_fig = build_scatter_fig(df_sum)
+
+    progress.update(5, "Generando insights...")
 
     # Summary
     summary = build_summary_text(df_sum, baseline)
@@ -54,5 +71,6 @@ def run_analysis_pipeline(df_paths, df_attr, artifacts, cfg):
         "df_summary": df_sum,
         "sankey": sankey_fig,
         "scatter": scatter_fig,
-        "summary": summary
+        "summary": summary,
+        "baseline": baseline
     }

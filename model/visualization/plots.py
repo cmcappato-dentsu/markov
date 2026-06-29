@@ -97,13 +97,13 @@ def build_sankey_fig(
 
         hover.append(
             f"<b>{lab}</b><br>"
-            f"peso_canal={pc:.3f}<br>"
-            f"first_touch_share={ft:.3f}<br>"
-            f"removal_effect_share={re:.3f}<br>"
-            f"removal_drop_abs={da:.4f}<br>"
-            f"touch_rate={tr:.3f}<br>"
-            f"avg_pos={ap:.2f}<br>"
-            f"riesgo={rk}"
+            f"Peso del canal: {pc:%.2%%}<br>"
+            f"First Touch (Primera interacción): {ft:%.4f}<br>"
+            f"Removal Effect (Efecto de remoción): {re:%.4f}<br>"
+            f"Removal Effect (Pérdida de conversiones): {da:%.4f}<br>"
+            f"Touch Rate (Frecuencia de aparición): {tr:%.4f}<br>"
+            f"Average Position (Posición promedio): {ap:%.4f}<br>"
+            f"Nivel de riesgo: {rk}"
         )
 
     fig = go.Figure(data=[go.Sankey(
@@ -120,7 +120,12 @@ def build_sankey_fig(
             source=src,
             target=dst,
             value=val,
-            color="rgba(150,150,150,0.35)"
+            color="rgba(150,150,150,0.35)",
+            hovertemplate=(
+                "Origen: %{source.label}<br>"
+                "Destino: %{target.label}<br>"
+                "Valor: %{value}<extra></extra>"
+            )
         )
     )])
 
@@ -143,10 +148,21 @@ def build_scatter_fig(df_sum: pd.DataFrame):
         color="risk_level",
         hover_name="channel",
         title="Mapa de dependencias por canal",
+        category_orders={
+            "risk_level": ["HIGH", "MEDIUM", "LOW"]
+        },
         color_discrete_map={
             "HIGH": "#d62728",
             "MEDIUM": "#ff7f0e",
             "LOW": "#2ca02c"
+        },
+        labels={
+            "removal_effect_share": "Removal Effect (Efecto de remoción)",
+            "removal_drop_abs": "Removal Effect (Pérdida de conversiones)",
+            "touch_rate": "Touch Rate (Frecuencia de aparición)",
+            "peso_canal": "Peso del canal",
+            "risk_level": "Nivel de riesgo",
+            "channel": "Canal"
         }
     )
 

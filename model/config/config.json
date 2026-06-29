@@ -36,7 +36,7 @@
 
     "non_converting_paths": {
         "mode": "global_rate",
-        "global_rate": 0.3,
+        "global_rate": 0.1,
         "absolute_count": 0
     },
 
@@ -64,13 +64,13 @@
     "post_analysis": {
         "risk_basis": "auto",
         "risk_thresholds_abs": {
-        "high": {
-            "removal_drop_min": 0.06, 
-            "touch_rate_min": 0.50
-        },
-        "medium": {
-            "removal_drop_min": 0.03
-        }
+            "high": {
+                "removal_drop_min": 0.06, 
+                "touch_rate_min": 0.50
+            },
+            "medium": {
+                "removal_drop_min": 0.03
+            }
         },
         "risk_thresholds_share": {
             "high": {
