@@ -97,12 +97,12 @@ def build_sankey_fig(
 
         hover.append(
             f"<b>{lab}</b><br>"
-            f"Peso del canal: {pc:%.2%%}<br>"
-            f"First Touch (Primera interacción): {ft:%.4f}<br>"
-            f"Removal Effect (Efecto de remoción): {re:%.4f}<br>"
-            f"Removal Effect (Pérdida de conversiones): {da:%.4f}<br>"
-            f"Touch Rate (Frecuencia de aparición): {tr:%.4f}<br>"
-            f"Average Position (Posición promedio): {ap:%.4f}<br>"
+            f"Peso del canal: {pc:.2f}<br>"
+            f"First Touch (Primera interacción): {ft:.4f}<br>"
+            f"Removal Effect (Efecto de remoción): {re:.4f}<br>"
+            f"Removal Effect (Pérdida de conversiones): {da:.4f}<br>"
+            f"Touch Rate (Frecuencia de aparición): {tr:.4f}<br>"
+            f"Average Position (Posición promedio): {ap:.4f}<br>"
             f"Nivel de riesgo: {rk}"
         )
 
